@@ -2,7 +2,7 @@
 
 * [Installation](installation.md)
 * [Getting started](getting-started.md)
-* [node-red basics](node-red-basics.md)
-* [making music](making-music.md)
-* [networking and collaborating](networking-and-collaborating.md)
-* [creating](creating.md)
+* [Node-red basics](node-red-basics.md)
+* [Making music](making-music.md)
+* [Networking and collaborating](networking-and-collaborating.md)
+* [Creating](creating.md)
