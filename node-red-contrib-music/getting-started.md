@@ -21,7 +21,7 @@
 
 You should end up with a screen that looks like this:
 
-![Startup screen for Linux on the Raspberry Pi](linuxstartup.jpg)
+![Startup screen for Linux on the Raspberry Pi](linux-startup.jpg)
 
 This is the Operating System (OS) called Linux, which has similar functions to Windows. Linux is also the basis of the Android operating system used on some mobile phones. The hardware used on the Raspberry Pi is also commonly used in mobile phones, which is why it is so compact.
 
@@ -44,7 +44,7 @@ You start the two server programs via the terminal which you can start by clicki
 
 Once you've done that you should end up with a a screen that looks like this:
 
-![Linux with open terminal.jpg](linuxterminal.jpg)
+![Linux with open terminal.jpg](linux-terminal.png)
 
 At the terminal (also known as the command prompt) you need to start the first server program called SuperCollider by typing exactly this, with a return at the end
 
@@ -64,7 +64,11 @@ Finally, point the web broswer to the node-red server by typing the following UR
 
 This looks a bit different to the kind of URLs you usually see. 127.0.0.1 is the Internet Protocol (IP) address that always points to your own machine. Once we connect the computers together in a network, each machine will have its own IP address. The 1880 is known as the _port number_.
 
-You should now have a screen that looks like this and we are ready to look at some [node-red basics](node-red-basics).
+You should now have a screen that looks like this
+
+![Linux node red](linux-node-red.png)
+
+and we are ready to look at some [node-red basics](node-red-basics).
 
 
 
