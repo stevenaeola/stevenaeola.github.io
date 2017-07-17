@@ -51,7 +51,9 @@ At the terminal (also known as the command prompt) you need to start the first s
 
 ```./startsc.sh```
 
-You should see various bits of output while SuperCollider gets set up and connected to the audio system on the computer. Once it is finished you can start the node-red by typing this at the terminal
+You should see various bits of output while SuperCollider gets set up and connected to the audio system on the computer. If you ever get a problem with your SuperCollider server (e.g. a "zombie" synth that keeps on playing) you can restart the SuperCollider server at any time with this command.
+
+Once it is finished you can start the node-red by opening another terminal and typing
 
 ```node-red```
 
@@ -59,6 +61,7 @@ Next start up the web browser with this icon in the top left hand corner
 
 ![Browser icon](browser-icon.png)
 
+The web browser opens with this documentation as the home page. To keep the documentation available, open a new tab in the browser for accessing node-red. 
 Finally, point the web browser to the node-red server by typing the following URL into the browser
 
 ```127.0.0.1:1880```

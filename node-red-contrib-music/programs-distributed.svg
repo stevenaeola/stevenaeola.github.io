@@ -11,11 +11,11 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-239 328,-239 328,4 -4,4"/>
 <g id="clust1" class="cluster"><title>cluster_1</title>
 <polygon fill="none" stroke="black" points="8,-8 8,-227 158,-227 158,-8 8,-8"/>
-<text text-anchor="middle" x="83" y="-211.8" font-family="Times,serif" font-size="14.00">192.168.2.7</text>
+<text text-anchor="middle" x="83" y="-211.8" font-family="Times,serif" font-size="14.00">192.168.0.7</text>
 </g>
 <g id="clust2" class="cluster"><title>cluster_2</title>
 <polygon fill="none" stroke="black" points="166,-8 166,-227 316,-227 316,-8 166,-8"/>
-<text text-anchor="middle" x="241" y="-211.8" font-family="Times,serif" font-size="14.00">192.168.2.24</text>
+<text text-anchor="middle" x="241" y="-211.8" font-family="Times,serif" font-size="14.00">192.168.0.24</text>
 </g>
 <!-- Browser_1 -->
 <g id="node1" class="node"><title>Browser_1</title>
