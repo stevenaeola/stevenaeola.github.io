@@ -2,34 +2,35 @@
 
 * [Connecting the parts](#connecting)
 * [Starting the software](#starting)
-*
+
 
 ## <a name='connecting'></a>Connecting the parts
 
 * Work in pairs
 * Get together the things you will need (per pair)
-- a Raspberry Pi (RPi) computer
-- a RPi power supply (looks like an android phone charger)
-- a monitor and HDMI lead/converter
-- a keyboard
-- a mouse
-- two pairs of headphones
-- a headphone splitter
-- a speaker with power lead and audio lead
+    1. a Raspberry Pi (RPi) computer
+    2. a RPi power supply (looks like an android phone charger)
+    3. a monitor and HDMI lead/converter
+    4. a keyboard
+    4. a mouse
+    4. two pairs of headphones
+    4. a headphone splitter
+    4. a speaker with power lead and audio lead (for later)
+    4. a network cable (for later)
 * Plug it all together, for now plugging the headphone splitter into the headphone socket and the speaker disconnected
 * Switch on the power
 
 You should end up with a screen that looks like this:
 
-![Startup screen for Linux on the Raspberry Pi](linux-startup.jpg)
+![Startup screen for Linux on the Raspberry Pi](linux-startup.png)
 
 This is the Operating System (OS) called Linux, which has similar functions to Windows. Linux is also the basis of the Android operating system used on some mobile phones. The hardware used on the Raspberry Pi is also commonly used in mobile phones, which is why it is so compact.
 
-## <a name="starting"></a>Starting up the software
+## <a name="starting"></a>Starting the software
 
 There are three programs that need to be running:
 
-* web broswer
+* web browser
 * node-red server
 * SuperCollider server
 
@@ -40,11 +41,11 @@ The node-red server is a web server, although in this case it is running on the 
 
 You start the two server programs via the terminal which you can start by clicking on this icon in the top left hand corner of the screen.
 
-![Terminal icon](terminalicon.jpg)
+![Terminal icon](terminal-icon.png)
 
 Once you've done that you should end up with a a screen that looks like this:
 
-![Linux with open terminal.jpg](linux-terminal.png)
+![Linux with open terminal](linux-terminal.png)
 
 At the terminal (also known as the command prompt) you need to start the first server program called SuperCollider by typing exactly this, with a return at the end
 
@@ -56,9 +57,9 @@ You should see various bits of output while SuperCollider gets set up and connec
 
 Next start up the web browser with this icon in the top left hand corner
 
-![Broswer icon](browsericon.png)
+![Browser icon](browser-icon.png)
 
-Finally, point the web broswer to the node-red server by typing the following URL into the browser
+Finally, point the web browser to the node-red server by typing the following URL into the browser
 
 ```127.0.0.1:1880```
 

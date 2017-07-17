@@ -2,10 +2,10 @@ digraph G {
 
 node[shape=box];
 
-Browser -> NR[label=1880];
+Browser -> NR;
 NR -> Browser;
 
-NR -> SC[label=57110];
+NR -> SC;
 SC -> NR[style=dotted];
 
 NR[label="node-red server"];

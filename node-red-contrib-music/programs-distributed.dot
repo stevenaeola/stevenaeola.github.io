@@ -1,0 +1,42 @@
+digraph G {
+
+subgraph cluster_1 {
+node[shape=box];   
+
+Browser_1 -> NR_1;
+NR_1 -> Browser_1;
+
+NR_1 -> SC_1;
+SC_1 -> NR_1[style=dotted];
+
+NR_1[label="node-red server"];
+SC_1[label="SuperCollider server"];
+Browser_1[label="Browser"];
+
+label = "192.168.2.7";
+color=black;
+}
+
+
+subgraph cluster_2 {
+node[shape=box];   
+
+Browser_2 -> NR_2;
+NR_2 -> Browser_2;
+
+NR_2 -> SC_2;
+SC_2 -> NR_2[style=dotted];
+
+NR_2[label="node-red server"];
+SC_2[label="SuperCollider server"];
+Browser_2[label="Browser"];
+
+label = "192.168.2.24";
+
+color=black;
+}
+
+NR_1 -> SC_2;
+
+
+}
