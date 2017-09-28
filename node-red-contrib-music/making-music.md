@@ -12,13 +12,13 @@ In [node-red basics](node-red-basics) you used an `inject` node to send a messag
 
 First of all delete the debug node by selecting it and hitting the delete/backspace key. To select it just click on it, and you will see it outlined in orange. To select many nodes, either to delete them or move them around, drag a box around them with the mouse.
 
-Next add a `synth` node, which is in the _music_ section of the palette. By default this makes a piano sound, which will suit us fine. Next we need to get the synth instructions sent across to SuperCollider. To do this you are going to import some things from the library, where the relevant parts are already put together for you. At the top-right corner of the node red screen are the three lines of a "hamburger" menu.
+Next add a `synth` node, which is in the _music_ section of the palette. By default this makes a bass drum (kick drum) sound, which will suit us fine. Next we need to get the synth instructions sent across to SuperCollider. To do this you are going to import some things from the library, where the relevant parts are already put together for you. At the top-right corner of the node red screen are the three lines of a "hamburger" menu.
 
 ![node-red hamburger menu](node-red-menu.png)
 
 Click on here and select Import > Library > Music > supercolliderOSC. Three pre-joined nodes appear which you can place anywhere, including an OSC node and a UDP node.
 
-OSC stands for _Open Sound Control_ and it is a protocol designed for
+OSC stands for _Open Sound Control_: it is a protocol designed for
 packaging music information, and the SuperCollider server expects
 messages in this format. It is connected to a `udp` node (short for
 User Datagram Protocol) which sends information between different
@@ -31,13 +31,13 @@ You may recognise the IP address used by the UDP node (127.0.0.1) as the address
 
 To the left of the osc node is another node with an arrow on that you don't need for now, so just delete it.
 
-You need the output of the piano synth node to go to the input of the osc node, so add a wire between them.
+You need the output of the kick synth node to go to the input of the osc node, so add a wire between them.
 
-The `inject` node needs to be configured to send a message with a payload of "tick" and no topic, and its output needs to feed the input of the piano synth, so add a wire to do that. Now you should have a flow looking a bit like this:
+The `inject` node needs to be configured to send a message with a payload of "tick" and no topic, and its output needs to feed the input of the kick synth, so add a wire to do that. Now you should have a flow looking a bit like this:
 
 ![nodes to make a sound](first-sound.png)
 
-Deploy this and click on the `inject` and you should hear a piano-like sound. If you don't then make sure that
+Deploy this and click on the `inject` and you should hear a drum-like sound. If you don't then make sure that
 
 * You have something (probably headphones) plugged into the correct headphone socket.
 * The sound isn't muted (see the top-right corner of the screen)
@@ -51,11 +51,11 @@ The next music node to look at is the `beat` node, which behaves like a metronom
 
 ![Parts for a beat generator](beat-parts.png)
 
-We will talk about the `bar` and `section` nodes later, but for now delete the link node on the right and the node for injecting `tick` that you defined before. Connect the output of `section` to the input of `piano` and you have something like this (the piano node has been moved here too):
+We will talk about the `bar` and `section` nodes later, but for now delete the link node on the right and the node for injecting `tick` that you defined before. Connect the output of `section` to the input of `kick` and you have something like this (the kick node has been moved here too):
 
-![Beat generator and a piano synth](beat-piano.png)
+![Beat generator and a kick synth](beat-kick.png)
 
-In this flow when you click to inject a message with the payload `start` the beat generator will start sending `tick` messages through the two divider nodes, into the synth and then off to SuperCollider to make a sound like a toddler pressing a piano key repeatedly. Once the interest of this dies away (this may take several seconds) then you can stop the beats and the sounds by injecting a `stop` or `reset` message.
+In this flow when you click to inject a message with the payload `start` the beat generator will start sending `tick` messages through the two divider nodes, into the synth and then off to SuperCollider to make a sound like a toddler hitting a drum repeatedly. Once the interest of this dies away (this may take several seconds) then you can stop the beats and the sounds by injecting a `stop` or `reset` message.
 
 The beat can be made faster or slower by configuring the `beat` node (try it). You can also change the speed of the beat while it is running by sending it a message with topic `bpm` and a payload of the new number of beats per minute. You can try this by adding one or more new `inject` nodes  which feed into the `beat` node.
 
@@ -165,11 +165,16 @@ list, but more complicated isn't always better when it comes to drum beats.
 * Change the `kick` and `snare` synths to use different instruments
 * Add one or more different synths: make more than one sound on the
   same beat if you want
+* If you find the beat sounds a little bit uneven that is because the
+  amount of time it takes for messages to pass through all the nodes
+  will vary. You can fix this by adding some "latency" in the `beat`
+  node, which will tell the beat to happen at a point in the future
+  rather than immediately.
 * Change the number of beats in the bar. Eight or sixteen beats allows
   you to do a more interesting rhythm. Mission Impossible uses ten
   beats, as does one of the regular tunes from Doctor Who. To do this
   you will have to reconfigure the `bar` node and add some more rules
-  to the `beat of bar` switch node
+  to the `beat of bar` switch node.
 * Use the `bar_of_section` property which is added by the `section`
   divider nodes (there are eight bars in a section) so that the first
   or last bar of every section has a different rhythm (sometimes
@@ -177,6 +182,8 @@ list, but more complicated isn't always better when it comes to drum beats.
   to create another rhythm, plus another `switch` node that uses the
   `bar_of_section` property to choose which `beat of bar` node to send
   the tick to.
+* Add a sub-beat to the beat generator at the bottom of the beat configuration. In music, half a beat is
+  called a quaver, so there are two quavers per beat. 
 
 Once you've got your drum beat created you can plug in a loudspeaker
 instead of a pair of headphones and we can get to hear them all. The

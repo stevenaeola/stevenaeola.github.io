@@ -52,4 +52,14 @@ Other synth types also have parameters you might like to change with a `synthcon
 * `blip` has parameters `att` and `rel` which control the attack time and release time - the amount of time in seconds it takes for the sound to start and end. The standard values are 0.01 for `att` and 1 for `rel` but you could make them any range you wanted
 * `prophet` has many parameters, including `lforate`, which is usually 10
 
+# Automated control
+
+If you have a piece of music you have developed, you could apply volume or tempo changes throughout the piece by dragging sliders or clicking on inject nodes, but that may be unsatisfactory for a few reasons
+
+* it is difficult to do a very slow and controlled change with a slider
+* you might need to change more than one thing at once
+* automating things is what computers are good at
+
+One way to do this is to use the beats that are created to create regular messages increasing or decreasing the volume, or some other control value. Taking the output of the beat generator directly will not work because we need to have a message that has topic `up` and payload `1`, but the beat messages have no topic and a payload of `tick`. To make this work we can use the standard node `change`, which is in the _function_ group of the palette.
+
 With all of these features of sound that you can control,you have enough knowledge to try [creating](creating) a larger piece of music.
