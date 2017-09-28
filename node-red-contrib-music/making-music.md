@@ -185,6 +185,9 @@ list, but more complicated isn't always better when it comes to drum beats.
 * Add a sub-beat to the beat generator at the bottom of the beat configuration. In music, half a beat is
   called a quaver, so there are two quavers per beat. 
 
+Some of these later ideas are included in a more complex example called `fancybeat` which you can import to have a tinker with.
+
 Once you've got your drum beat created you can plug in a loudspeaker
 instead of a pair of headphones and we can get to hear them all. The
 next step is to do some [networking and collaborating](networking-and-collaborating).
+
