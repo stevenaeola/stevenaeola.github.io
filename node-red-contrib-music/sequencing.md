@@ -22,7 +22,24 @@ When that is deployed and the beat is started you will hear a repeating pattern 
 
 ![Sequencer configuration](sequencer-configure.png)
 
-The sequencer counts input events (beats) according to the `list of lengths` in the configuration. When the next note is due, the note number is taken from the `list of notes`, and that changes the pitch of the note that is sounded. These can be selected randomly, instead of in the order they are entered. You have to use the square brackets and commas as they are shown in the example, but you can have lists that are shorter or longer for the `list of notes` and `list of lengths`.
+The sequencer counts input events (beats) according to the `list of
+lengths` in the configuration. When the next note is due, the note
+number is taken from the `values of `notes`, and that changes the pitch
+of the note that is sounded. These can be selected randomly, instead
+of in the order they are entered. You have to use the square brackets
+and commas as they are shown in the example, but you can have lists
+that are shorter or longer for the `notes` and `list of
+lengths`.
+
+By default the sequencer will only send a tick at the next sequence
+point, but you can configure it to send on all ticks it receives, but
+with the value changing at sequence points.
+
+Also you can add or change what value is sequenced. Instead of
+changing the note, you might want to change the volume instead (or as
+well). To sequence the volume, configure the `name` of the control to
+be `volume` instead of `note`. To change both at the same time, you
+can add a new control for the volume.
 
 ## Things to try
 

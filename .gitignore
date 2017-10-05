@@ -4,3 +4,4 @@ _site
 #*#
 *.tiff
 Gemfile*
+localhost:4000

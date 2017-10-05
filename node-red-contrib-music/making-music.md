@@ -189,5 +189,5 @@ Some of these later ideas are included in a more complex example called `fancybe
 
 Once you've got your drum beat created you can plug in a loudspeaker
 instead of a pair of headphones and we can get to hear them all. The
-next step is to do some [networking and collaborating](networking-and-collaborating).
+next step is to do some [sequencing](sequencing).
 
