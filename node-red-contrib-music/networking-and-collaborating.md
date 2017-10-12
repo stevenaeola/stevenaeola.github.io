@@ -1,3 +1,8 @@
+---
+category: tutorial
+order: 6
+---
+
 # Networking and Collaborating
 
 ## Networking and Internet Protocol (IP) addresses
@@ -16,12 +21,6 @@ To send to another computer we can go back to our first sound flow (in [making m
 
 By replacing the last part of the IP address and trying it out, you should be able to work out the IP addresses of all the other machines on the network. Note that not all IP addresses will point to a computer.
 
-This will only work with synth types that are not sustained, otherwise you will end up creating a "zombie" synth on somebody else's machine, that they can't turn off. If you end up with a zombie synth you will have to restart SuperCollider with
-```
-./startsc.sh
-```
-and then redeploy all of the nodes in node-red.
-
 Use this to make a list of the IP addresses of all the computers in the network.
 
 ## <a name='collaborating'></a>Collaborating
@@ -30,5 +29,4 @@ With all these music-enabled computers we have something much better than a ster
 
 Try sending a series of beats to different machines around the room by using the same `beat_of_bar` technique use in the `drumbeat` example. But this time, instead of sending the ticks to different synth types on the same machine, send them to the same synth type on different machines. You will need to import and reconfigure a `supercolliderOSC` for each machine that you send it to.
 
-
-Putting all of these together will allow us to make some great collaborative music with really interesting textures. We know how to change the volume of things (dynamics) and the speed of things (tempo) as well as the sound they make (timbre) and the structure of the music in bars and sections. But there are two really important dimensions of music that we need to look at first: pitch and duration. Those come under [sequencing](sequencing)
+Putting all of these together will allow us to make some great collaborative music with really interesting textures. We know how to change the volume of things (dynamics) and the speed of things (tempo) as well as the sound they make (timbre) and the structure of the music in bars and sections. 

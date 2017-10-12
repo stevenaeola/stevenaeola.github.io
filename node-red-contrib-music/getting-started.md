@@ -1,3 +1,10 @@
+---
+category: tutorial
+order: 2
+---
+
+
+
 # Getting Started
 
 * [Connecting the parts](#connecting)

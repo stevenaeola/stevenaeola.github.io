@@ -1,3 +1,8 @@
+---
+category: tutorial
+order: 4
+---
+
 # Making Music
 
 * [My first sound](#my-first-sound)
@@ -16,7 +21,7 @@ Next add a `synth` node, which is in the _music_ section of the palette. By defa
 
 ![node-red hamburger menu](node-red-menu.png)
 
-Click on here and select Import > Library > Music > supercolliderOSC. Three pre-joined nodes appear which you can place anywhere, including an OSC node and a UDP node.
+Click on here and select Import > Examples > Music > supercolliderOSC. Three pre-joined nodes appear which you can place anywhere, including an OSC node and a UDP node.
 
 OSC stands for _Open Sound Control_: it is a protocol designed for
 packaging music information, and the SuperCollider server expects

@@ -1,3 +1,8 @@
+---
+category: tutorial
+order: 3
+---
+
 # node-red basics
 
 ## My first flow

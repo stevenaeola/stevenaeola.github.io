@@ -1,3 +1,8 @@
+---
+category: tutorial
+order: 8
+---
+
 # Creating
 
 In a group of about five computers (still working in pairs), create a sound track to a short film. Try to think about the structure of your sound track, and what you want to do about each of these dimensions of music:

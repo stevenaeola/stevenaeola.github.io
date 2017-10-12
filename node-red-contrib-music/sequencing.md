@@ -1,3 +1,8 @@
+---
+category: tutorial
+order: 5
+---
+
 # Sequencing
 
 ## Note names and numbers
