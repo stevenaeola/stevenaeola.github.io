@@ -1,8 +1,3 @@
----
-category: tutorial
-order: 6
----
-
 # Networking and Collaborating
 
 ## Networking and Internet Protocol (IP) addresses

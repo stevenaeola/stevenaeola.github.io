@@ -15,21 +15,25 @@ order: 2
 
 * Work in pairs
 * Get together the things you will need (per pair)
+  
     1. a Raspberry Pi (RPi) computer
     2. a RPi power supply (looks like an android phone charger)
     3. a monitor and HDMI lead/converter
     4. a keyboard
     4. a mouse
+    4. or instead of all of the above, a pitop and a power supply
     4. two pairs of headphones
     4. a headphone splitter
     4. a speaker with power lead and audio lead (for later)
-    4. a network cable (for later)
+
 * Plug it all together, for now plugging the headphone splitter into the headphone socket and the speaker disconnected
 * Switch on the power
 
 You should end up with a screen that looks like this:
 
 ![Startup screen for Linux on the Raspberry Pi](linux-startup.png)
+
+If you are running on a pitop you will need to switch to the desktop first, icon in the top left hand corner.
 
 This is the Operating System (OS) called Linux, which has similar functions to Windows. Linux is also the basis of the Android operating system used on some mobile phones. The hardware used on the Raspberry Pi is also commonly used in mobile phones, which is why it is so compact.
 
@@ -46,7 +50,7 @@ The node-red server is a web server, although in this case it is running on the 
 ![Communication between the programs](programs.svg)
 
 
-You start the two server programs via the terminal which you can start by clicking on this icon in the top left hand corner of the screen.
+You start the two server programs via the terminal which you can start by clicking on this icon in the top left hand corner of the screen  (or bottom left on pitop).
 
 ![Terminal icon](terminal-icon.png)
 

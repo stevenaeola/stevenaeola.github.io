@@ -19,7 +19,7 @@ Next import a beatgenerator and a supercolliderOSC. In between them put a `seque
 
 ![Nodes for a sequencer](sequencer-parts.png)
 
-Delete the link nodes and join them all together like this:
+Delete the link nodes and join them all together like this, making sure to use the top output of the sequencer:
 
 ![Sequencer](sequencer.png)
 
@@ -29,7 +29,7 @@ When that is deployed and the beat is started you will hear a repeating pattern 
 
 The sequencer counts input events (beats) according to the `list of
 lengths` in the configuration. When the next note is due, the note
-number is taken from the `values of `notes`, and that changes the pitch
+number is taken from the `values` of `notes`, and that changes the pitch
 of the note that is sounded. These can be selected randomly, instead
 of in the order they are entered. You have to use the square brackets
 and commas as they are shown in the example, but you can have lists
@@ -49,10 +49,10 @@ can add a new control for the volume.
 ## Things to try
 
 * Make a longer sequence of notes and lengths
-* Use a synth that has sustain, such as moog. This synth is best for low notes, so configure the synth with an octave of -2. Leaving gaps is sometimes very effective, but if you want to do this with a sustaining synth you will need to use a null value e.g. [1,4,5,null]. Sustained synths will not work properly on other  computers
+* Use a synth that has sustain, such as moog. This synth is best for low notes, so configure the synth with an octave of -2. Leaving gaps is sometimes very effective, but if you want to do this with a sustaining synth you will need to use a null value e.g. [1,4,5,null]. 
 * Have two or more synths, each with their own sequencer, both running from the same beat generator
 * Change the `input event` to be `bar` instead of `beat`, to make something run more slowly: the `list of lengths` will now count bars instead of beats
-* Change the `scale type` setting on the synth to hear what difference they make
+* Change the `scale` settings on the synth to hear what difference they make
 * Try 'phasing', as often used by the modern composer Steve Reich. First select quite a long list of notes, maybe eight of them, and a very simple list of lengths, maybe just the number 1. Then copy and paste the sequencer (use Ctrl-C and Ctrl-V) and add or remove one number from the list of lengths. Connect it up in the same way so that both sequencers are going at the same time. You can either feed the two sequencers into the same synth or give them each their own synth.
 * Add in a drum beat at the same time (import it and connect it up). Having a simple list of lengths that do not add up to the bar length and playing it alongside the drum beat makes an interesting sound
 

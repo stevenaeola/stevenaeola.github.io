@@ -1,112 +1,106 @@
---2017-10-12 11:33:51--  http://localhost:4000/
+--2018-06-26 10:09:31--  http://localhost:4000/
 Resolving localhost... ::1, 127.0.0.1
 Connecting to localhost|::1|:4000... failed: Connection refused.
 Connecting to localhost|127.0.0.1|:4000... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 1819 (1.8K) [text/html]
+Length: 1958 (1.9K) [text/html]
 Saving to: ‘localhost:4000/index.html’
 
-     0K .                                                     100%  217M=0s
+     0K .                                                     100%  187M=0s
 
-2017-10-12 11:33:51 (217 MB/s) - ‘localhost:4000/index.html’ saved [1819/1819]
+2018-06-26 10:09:31 (187 MB/s) - ‘localhost:4000/index.html’ saved [1958/1958]
 
-Loading robots.txt; please ignore errors.
---2017-10-12 11:33:51--  http://localhost:4000/robots.txt
+--2018-06-26 10:09:31--  http://localhost:4000/?N=D
 Reusing existing connection to localhost:4000.
-HTTP request sent, awaiting response... 404 Not Found
-2017-10-12 11:33:51 ERROR 404: Not Found.
-
---2017-10-12 11:33:51--  http://localhost:4000/?N=D
-Connecting to localhost|127.0.0.1|:4000... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 1819 (1.8K) [text/html]
+Length: 1958 (1.9K) [text/html]
 Saving to: ‘localhost:4000/index.html?N=D’
 
-     0K .                                                     100%  434M=0s
+     0K .                                                     100%  311M=0s
 
-2017-10-12 11:33:51 (434 MB/s) - ‘localhost:4000/index.html?N=D’ saved [1819/1819]
+2018-06-26 10:09:31 (311 MB/s) - ‘localhost:4000/index.html?N=D’ saved [1958/1958]
 
---2017-10-12 11:33:51--  http://localhost:4000/?M=D
+--2018-06-26 10:09:31--  http://localhost:4000/?M=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
-Length: 1819 (1.8K) [text/html]
+Length: 1958 (1.9K) [text/html]
 Saving to: ‘localhost:4000/index.html?M=D’
 
-     0K .                                                     100%  434M=0s
+     0K .                                                     100%  233M=0s
 
-2017-10-12 11:33:51 (434 MB/s) - ‘localhost:4000/index.html?M=D’ saved [1819/1819]
+2018-06-26 10:09:31 (233 MB/s) - ‘localhost:4000/index.html?M=D’ saved [1958/1958]
 
---2017-10-12 11:33:51--  http://localhost:4000/?S=D
+--2018-06-26 10:09:31--  http://localhost:4000/?S=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
-Length: 1819 (1.8K) [text/html]
+Length: 1958 (1.9K) [text/html]
 Saving to: ‘localhost:4000/index.html?S=D’
 
-     0K .                                                     100%  434M=0s
+     0K .                                                     100%  311M=0s
 
-2017-10-12 11:33:51 (434 MB/s) - ‘localhost:4000/index.html?S=D’ saved [1819/1819]
+2018-06-26 10:09:31 (311 MB/s) - ‘localhost:4000/index.html?S=D’ saved [1958/1958]
 
---2017-10-12 11:33:51--  http://localhost:4000/Gemfile
+--2018-06-26 10:09:31--  http://localhost:4000/Gemfile
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 73 [application/octet-stream]
 Saving to: ‘localhost:4000/Gemfile’
 
-     0K                                                       100% 17.4M=0s
+     0K                                                       100% 7.74M=0s
 
-2017-10-12 11:33:51 (17.4 MB/s) - ‘localhost:4000/Gemfile’ saved [73/73]
+2018-06-26 10:09:31 (7.74 MB/s) - ‘localhost:4000/Gemfile’ saved [73/73]
 
---2017-10-12 11:33:51--  http://localhost:4000/Gemfile.lock
+--2018-06-26 10:09:31--  http://localhost:4000/Gemfile.lock
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 5415 (5.3K) [application/octet-stream]
 Saving to: ‘localhost:4000/Gemfile.lock’
 
-     0K .....                                                 100% 1.26G=0s
+     0K .....                                                 100%  469M=0s
 
-2017-10-12 11:33:51 (1.26 GB/s) - ‘localhost:4000/Gemfile.lock’ saved [5415/5415]
+2018-06-26 10:09:31 (469 MB/s) - ‘localhost:4000/Gemfile.lock’ saved [5415/5415]
 
---2017-10-12 11:33:51--  http://localhost:4000/README.html
+--2018-06-26 10:09:31--  http://localhost:4000/README.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1576 (1.5K) [text/html]
 Saving to: ‘localhost:4000/README.html’
 
-     0K .                                                     100%  376M=0s
+     0K .                                                     100%  250M=0s
 
-2017-10-12 11:33:51 (376 MB/s) - ‘localhost:4000/README.html’ saved [1576/1576]
+2018-06-26 10:09:31 (250 MB/s) - ‘localhost:4000/README.html’ saved [1576/1576]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/
+--2018-06-26 10:09:31--  http://localhost:4000/assets/
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1268 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/index.html’
 
-     0K .                                                     100%  302M=0s
+     0K .                                                     100%  202M=0s
 
-2017-10-12 11:33:51 (302 MB/s) - ‘localhost:4000/assets/index.html’ saved [1268/1268]
+2018-06-26 10:09:31 (202 MB/s) - ‘localhost:4000/assets/index.html’ saved [1268/1268]
 
---2017-10-12 11:33:51--  http://localhost:4000/build.sh
+--2018-06-26 10:09:31--  http://localhost:4000/build.sh
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
-Length: 126 [application/x-sh]
+Length: 140 [application/x-sh]
 Saving to: ‘localhost:4000/build.sh’
 
-     0K                                                       100% 20.0M=0s
+     0K                                                       100% 22.3M=0s
 
-2017-10-12 11:33:51 (20.0 MB/s) - ‘localhost:4000/build.sh’ saved [126/126]
+2018-06-26 10:09:31 (22.3 MB/s) - ‘localhost:4000/build.sh’ saved [140/140]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/
+--2018-06-26 10:09:31--  http://localhost:4000/built/
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1747 (1.7K) [text/html]
 Saving to: ‘localhost:4000/built/index.html’
 
-     0K .                                                     100%  333M=0s
+     0K .                                                     100%  208M=0s
 
-2017-10-12 11:33:51 (333 MB/s) - ‘localhost:4000/built/index.html’ saved [1747/1747]
+2018-06-26 10:09:31 (208 MB/s) - ‘localhost:4000/built/index.html’ saved [1747/1747]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 2345 (2.3K) [text/html]
@@ -114,93 +108,93 @@ Saving to: ‘localhost:4000/node-red-contrib-music/index.html’
 
      0K ..                                                    100%  319M=0s
 
-2017-10-12 11:33:51 (319 MB/s) - ‘localhost:4000/node-red-contrib-music/index.html’ saved [2345/2345]
+2018-06-26 10:09:31 (319 MB/s) - ‘localhost:4000/node-red-contrib-music/index.html’ saved [2345/2345]
 
---2017-10-12 11:33:51--  http://localhost:4000/?N=A
+--2018-06-26 10:09:31--  http://localhost:4000/?N=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
-Length: 1819 (1.8K) [text/html]
+Length: 1958 (1.9K) [text/html]
 Saving to: ‘localhost:4000/index.html?N=A’
 
-     0K .                                                     100%  347M=0s
+     0K .                                                     100%  311M=0s
 
-2017-10-12 11:33:51 (347 MB/s) - ‘localhost:4000/index.html?N=A’ saved [1819/1819]
+2018-06-26 10:09:31 (311 MB/s) - ‘localhost:4000/index.html?N=A’ saved [1958/1958]
 
---2017-10-12 11:33:51--  http://localhost:4000/?M=A
+--2018-06-26 10:09:31--  http://localhost:4000/?M=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
-Length: 1819 (1.8K) [text/html]
+Length: 1958 (1.9K) [text/html]
 Saving to: ‘localhost:4000/index.html?M=A’
 
-     0K .                                                     100%  124M=0s
+     0K .                                                     100%  311M=0s
 
-2017-10-12 11:33:51 (124 MB/s) - ‘localhost:4000/index.html?M=A’ saved [1819/1819]
+2018-06-26 10:09:31 (311 MB/s) - ‘localhost:4000/index.html?M=A’ saved [1958/1958]
 
---2017-10-12 11:33:51--  http://localhost:4000/?S=A
+--2018-06-26 10:09:31--  http://localhost:4000/?S=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
-Length: 1819 (1.8K) [text/html]
+Length: 1958 (1.9K) [text/html]
 Saving to: ‘localhost:4000/index.html?S=A’
 
-     0K .                                                     100%  434M=0s
+     0K .                                                     100%  311M=0s
 
-2017-10-12 11:33:51 (434 MB/s) - ‘localhost:4000/index.html?S=A’ saved [1819/1819]
+2018-06-26 10:09:31 (311 MB/s) - ‘localhost:4000/index.html?S=A’ saved [1958/1958]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/css/style.css?v=a717ec1f19e537fb8dcdfddf410c20206651589c
+--2018-06-26 10:09:31--  http://localhost:4000/assets/css/style.css?v=21eafd2f86e1196e964ef82df31a390d0ba2443b
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 9061 (8.8K) [text/css]
-Saving to: ‘localhost:4000/assets/css/style.css?v=a717ec1f19e537fb8dcdfddf410c20206651589c’
+Saving to: ‘localhost:4000/assets/css/style.css?v=21eafd2f86e1196e964ef82df31a390d0ba2443b’
 
-     0K ........                                              100%  262M=0s
+     0K ........                                              100%  120M=0s
 
-2017-10-12 11:33:51 (262 MB/s) - ‘localhost:4000/assets/css/style.css?v=a717ec1f19e537fb8dcdfddf410c20206651589c’ saved [9061/9061]
+2018-06-26 10:09:31 (120 MB/s) - ‘localhost:4000/assets/css/style.css?v=21eafd2f86e1196e964ef82df31a390d0ba2443b’ saved [9061/9061]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/js/scale.fix.js
+--2018-06-26 10:09:31--  http://localhost:4000/assets/js/scale.fix.js
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 503 [application/javascript]
 Saving to: ‘localhost:4000/assets/js/scale.fix.js’
 
-     0K                                                       100% 95.9M=0s
+     0K                                                       100% 79.9M=0s
 
-2017-10-12 11:33:51 (95.9 MB/s) - ‘localhost:4000/assets/js/scale.fix.js’ saved [503/503]
+2018-06-26 10:09:31 (79.9 MB/s) - ‘localhost:4000/assets/js/scale.fix.js’ saved [503/503]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 301 Moved Permanently
 Location: http://localhost:4000/node-red-contrib-music/ [following]
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 2345 (2.3K) [text/html]
-Saving to: ‘localhost:4000/node-red-contrib-music.1’
+Saving to: ‘localhost:4000/node-red-contrib-music.2’
 
-     0K ..                                                    100%  559M=0s
+     0K ..                                                    100%  373M=0s
 
-2017-10-12 11:33:51 (559 MB/s) - ‘localhost:4000/node-red-contrib-music.1’ saved [2345/2345]
+2018-06-26 10:09:31 (373 MB/s) - ‘localhost:4000/node-red-contrib-music.2’ saved [2345/2345]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/?N=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/?N=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1268 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/index.html?N=D’
 
-     0K .                                                     100%  302M=0s
+     0K .                                                     100%  202M=0s
 
-2017-10-12 11:33:51 (302 MB/s) - ‘localhost:4000/assets/index.html?N=D’ saved [1268/1268]
+2018-06-26 10:09:31 (202 MB/s) - ‘localhost:4000/assets/index.html?N=D’ saved [1268/1268]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/?M=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/?M=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1268 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/index.html?M=D’
 
-     0K .                                                     100%  242M=0s
+     0K .                                                     100%  202M=0s
 
-2017-10-12 11:33:51 (242 MB/s) - ‘localhost:4000/assets/index.html?M=D’ saved [1268/1268]
+2018-06-26 10:09:31 (202 MB/s) - ‘localhost:4000/assets/index.html?M=D’ saved [1268/1268]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/?S=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/?S=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1268 (1.2K) [text/html]
@@ -208,19 +202,19 @@ Saving to: ‘localhost:4000/assets/index.html?S=D’
 
      0K .                                                     100%  242M=0s
 
-2017-10-12 11:33:51 (242 MB/s) - ‘localhost:4000/assets/index.html?S=D’ saved [1268/1268]
+2018-06-26 10:09:31 (242 MB/s) - ‘localhost:4000/assets/index.html?S=D’ saved [1268/1268]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/css/
+--2018-06-26 10:09:31--  http://localhost:4000/assets/css/
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1051 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/css/index.html’
 
-     0K .                                                     100%  100M=0s
+     0K .                                                     100%  167M=0s
 
-2017-10-12 11:33:51 (100 MB/s) - ‘localhost:4000/assets/css/index.html’ saved [1051/1051]
+2018-06-26 10:09:31 (167 MB/s) - ‘localhost:4000/assets/css/index.html’ saved [1051/1051]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/images/
+--2018-06-26 10:09:31--  http://localhost:4000/assets/images/
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1211 (1.2K) [text/html]
@@ -228,49 +222,49 @@ Saving to: ‘localhost:4000/assets/images/index.html’
 
      0K .                                                     100%  231M=0s
 
-2017-10-12 11:33:51 (231 MB/s) - ‘localhost:4000/assets/images/index.html’ saved [1211/1211]
+2018-06-26 10:09:31 (231 MB/s) - ‘localhost:4000/assets/images/index.html’ saved [1211/1211]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/js/
+--2018-06-26 10:09:31--  http://localhost:4000/assets/js/
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1054 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/js/index.html’
 
-     0K .                                                     100%  251M=0s
+     0K .                                                     100%  168M=0s
 
-2017-10-12 11:33:51 (251 MB/s) - ‘localhost:4000/assets/js/index.html’ saved [1054/1054]
+2018-06-26 10:09:31 (168 MB/s) - ‘localhost:4000/assets/js/index.html’ saved [1054/1054]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/index.html?N=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/index.html?N=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1747 (1.7K) [text/html]
 Saving to: ‘localhost:4000/built/index.html?N=D’
 
-     0K .                                                     100%  417M=0s
+     0K .                                                     100%  185M=0s
 
-2017-10-12 11:33:51 (417 MB/s) - ‘localhost:4000/built/index.html?N=D’ saved [1747/1747]
+2018-06-26 10:09:31 (185 MB/s) - ‘localhost:4000/built/index.html?N=D’ saved [1747/1747]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/index.html?M=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/index.html?M=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1747 (1.7K) [text/html]
 Saving to: ‘localhost:4000/built/index.html?M=D’
 
-     0K .                                                     100%  417M=0s
+     0K .                                                     100%  238M=0s
 
-2017-10-12 11:33:51 (417 MB/s) - ‘localhost:4000/built/index.html?M=D’ saved [1747/1747]
+2018-06-26 10:09:31 (238 MB/s) - ‘localhost:4000/built/index.html?M=D’ saved [1747/1747]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/index.html?S=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/index.html?S=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1747 (1.7K) [text/html]
 Saving to: ‘localhost:4000/built/index.html?S=D’
 
-     0K .                                                     100%  417M=0s
+     0K .                                                     100%  238M=0s
 
-2017-10-12 11:33:51 (417 MB/s) - ‘localhost:4000/built/index.html?S=D’ saved [1747/1747]
+2018-06-26 10:09:31 (238 MB/s) - ‘localhost:4000/built/index.html?S=D’ saved [1747/1747]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/index.html
+--2018-06-26 10:09:31--  http://localhost:4000/built/index.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1747 (1.7K) [text/html]
@@ -278,189 +272,189 @@ Saving to: ‘localhost:4000/built/index.html’
 
      0K .                                                     100%  278M=0s
 
-2017-10-12 11:33:51 (278 MB/s) - ‘localhost:4000/built/index.html’ saved [1747/1747]
+2018-06-26 10:09:31 (278 MB/s) - ‘localhost:4000/built/index.html’ saved [1747/1747]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/Gemfile
+--2018-06-26 10:09:31--  http://localhost:4000/built/Gemfile
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 73 [application/octet-stream]
 Saving to: ‘localhost:4000/built/Gemfile’
 
-     0K                                                       100% 11.6M=0s
+     0K                                                       100% 6.33M=0s
 
-2017-10-12 11:33:51 (11.6 MB/s) - ‘localhost:4000/built/Gemfile’ saved [73/73]
+2018-06-26 10:09:31 (6.33 MB/s) - ‘localhost:4000/built/Gemfile’ saved [73/73]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/Gemfile.lock
+--2018-06-26 10:09:31--  http://localhost:4000/built/Gemfile.lock
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 5415 (5.3K) [application/octet-stream]
 Saving to: ‘localhost:4000/built/Gemfile.lock’
 
-     0K .....                                                 100%  574M=0s
+     0K .....                                                 100%  861M=0s
 
-2017-10-12 11:33:51 (574 MB/s) - ‘localhost:4000/built/Gemfile.lock’ saved [5415/5415]
+2018-06-26 10:09:31 (861 MB/s) - ‘localhost:4000/built/Gemfile.lock’ saved [5415/5415]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/README.html
+--2018-06-26 10:09:31--  http://localhost:4000/built/README.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1576 (1.5K) [text/html]
 Saving to: ‘localhost:4000/built/README.html’
 
-     0K .                                                     100%  301M=0s
+     0K .                                                     100%  215M=0s
 
-2017-10-12 11:33:51 (301 MB/s) - ‘localhost:4000/built/README.html’ saved [1576/1576]
+2018-06-26 10:09:31 (215 MB/s) - ‘localhost:4000/built/README.html’ saved [1576/1576]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/index.html
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/index.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1339 (1.3K) [text/html]
 Saving to: ‘localhost:4000/built/assets/index.html’
 
-     0K .                                                     100%  319M=0s
+     0K .                                                     100%  182M=0s
 
-2017-10-12 11:33:51 (319 MB/s) - ‘localhost:4000/built/assets/index.html’ saved [1339/1339]
+2018-06-26 10:09:31 (182 MB/s) - ‘localhost:4000/built/assets/index.html’ saved [1339/1339]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/build.sh
+--2018-06-26 10:09:31--  http://localhost:4000/built/build.sh
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 126 [application/x-sh]
 Saving to: ‘localhost:4000/built/build.sh’
 
-     0K                                                       100% 30.0M=0s
+     0K                                                       100% 20.0M=0s
 
-2017-10-12 11:33:51 (30.0 MB/s) - ‘localhost:4000/built/build.sh’ saved [126/126]
+2018-06-26 10:09:31 (20.0 MB/s) - ‘localhost:4000/built/build.sh’ saved [126/126]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/node-red-contrib-music.1
+--2018-06-26 10:09:31--  http://localhost:4000/built/node-red-contrib-music.1
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 2144 (2.1K) [application/octet-stream]
 Saving to: ‘localhost:4000/built/node-red-contrib-music.1’
 
-     0K ..                                                    100%  511M=0s
+     0K ..                                                    100%  170M=0s
 
-2017-10-12 11:33:51 (511 MB/s) - ‘localhost:4000/built/node-red-contrib-music.1’ saved [2144/2144]
+2018-06-26 10:09:31 (170 MB/s) - ‘localhost:4000/built/node-red-contrib-music.1’ saved [2144/2144]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/installation.html
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/installation.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1653 (1.6K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/installation.html’
 
-     0K .                                                     100%  525M=0s
+     0K .                                                     100%  263M=0s
 
-2017-10-12 11:33:51 (525 MB/s) - ‘localhost:4000/node-red-contrib-music/installation.html’ saved [1653/1653]
+2018-06-26 10:09:31 (263 MB/s) - ‘localhost:4000/node-red-contrib-music/installation.html’ saved [1653/1653]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/getting-started.html
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/getting-started.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 5694 (5.6K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/getting-started.html’
 
-     0K .....                                                 100% 1.06G=0s
+     0K .....                                                 100%  543M=0s
 
-2017-10-12 11:33:51 (1.06 GB/s) - ‘localhost:4000/node-red-contrib-music/getting-started.html’ saved [5694/5694]
+2018-06-26 10:09:31 (543 MB/s) - ‘localhost:4000/node-red-contrib-music/getting-started.html’ saved [5694/5694]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/node-red-basics.html
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/node-red-basics.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 8771 (8.6K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/node-red-basics.html’
 
-     0K ........                                              100%  270M=0s
+     0K ........                                              100% 62.0M=0s
 
-2017-10-12 11:33:51 (270 MB/s) - ‘localhost:4000/node-red-contrib-music/node-red-basics.html’ saved [8771/8771]
+2018-06-26 10:09:31 (62.0 MB/s) - ‘localhost:4000/node-red-contrib-music/node-red-basics.html’ saved [8771/8771]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/making-music.html
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/making-music.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 17316 (17K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/making-music.html’
 
-     0K .......... ......                                     100%  359M=0s
+     0K .......... ......                                     100%  157M=0s
 
-2017-10-12 11:33:51 (359 MB/s) - ‘localhost:4000/node-red-contrib-music/making-music.html’ saved [17316/17316]
+2018-06-26 10:09:31 (157 MB/s) - ‘localhost:4000/node-red-contrib-music/making-music.html’ saved [17316/17316]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/sequencing.html
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/sequencing.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 6665 (6.5K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/sequencing.html’
 
-     0K ......                                                100% 1.55G=0s
+     0K ......                                                100% 1.03G=0s
 
-2017-10-12 11:33:51 (1.55 GB/s) - ‘localhost:4000/node-red-contrib-music/sequencing.html’ saved [6665/6665]
+2018-06-26 10:09:31 (1.03 GB/s) - ‘localhost:4000/node-red-contrib-music/sequencing.html’ saved [6665/6665]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/networking-and-collaborating.html
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/networking-and-collaborating.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 4663 (4.6K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/networking-and-collaborating.html’
 
-     0K ....                                                  100%  445M=0s
+     0K ....                                                  100%  494M=0s
 
-2017-10-12 11:33:51 (445 MB/s) - ‘localhost:4000/node-red-contrib-music/networking-and-collaborating.html’ saved [4663/4663]
+2018-06-26 10:09:31 (494 MB/s) - ‘localhost:4000/node-red-contrib-music/networking-and-collaborating.html’ saved [4663/4663]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/creating.html
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/creating.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 3349 (3.3K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/creating.html’
 
-     0K ...                                                   100%  798M=0s
+     0K ...                                                   100%  399M=0s
 
-2017-10-12 11:33:51 (798 MB/s) - ‘localhost:4000/node-red-contrib-music/creating.html’ saved [3349/3349]
+2018-06-26 10:09:31 (399 MB/s) - ‘localhost:4000/node-red-contrib-music/creating.html’ saved [3349/3349]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/images/arrow-down.png
+--2018-06-26 10:09:31--  http://localhost:4000/assets/images/arrow-down.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 216 [image/png]
 Saving to: ‘localhost:4000/assets/images/arrow-down.png’
 
-     0K                                                       100% 51.5M=0s
+     0K                                                       100% 34.3M=0s
 
-2017-10-12 11:33:51 (51.5 MB/s) - ‘localhost:4000/assets/images/arrow-down.png’ saved [216/216]
+2018-06-26 10:09:31 (34.3 MB/s) - ‘localhost:4000/assets/images/arrow-down.png’ saved [216/216]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/images/octocat-small.png
+--2018-06-26 10:09:31--  http://localhost:4000/assets/images/octocat-small.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 357 [image/png]
 Saving to: ‘localhost:4000/assets/images/octocat-small.png’
 
-     0K                                                       100% 85.1M=0s
+     0K                                                       100% 56.7M=0s
 
-2017-10-12 11:33:51 (85.1 MB/s) - ‘localhost:4000/assets/images/octocat-small.png’ saved [357/357]
+2018-06-26 10:09:31 (56.7 MB/s) - ‘localhost:4000/assets/images/octocat-small.png’ saved [357/357]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/?N=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/?N=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1268 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/index.html?N=A’
 
-     0K .                                                     100%  403M=0s
+     0K .                                                     100%  202M=0s
 
-2017-10-12 11:33:51 (403 MB/s) - ‘localhost:4000/assets/index.html?N=A’ saved [1268/1268]
+2018-06-26 10:09:31 (202 MB/s) - ‘localhost:4000/assets/index.html?N=A’ saved [1268/1268]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/?M=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/?M=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1268 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/index.html?M=A’
 
-     0K .                                                     100%  242M=0s
+     0K .                                                     100%  202M=0s
 
-2017-10-12 11:33:51 (242 MB/s) - ‘localhost:4000/assets/index.html?M=A’ saved [1268/1268]
+2018-06-26 10:09:31 (202 MB/s) - ‘localhost:4000/assets/index.html?M=A’ saved [1268/1268]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/?S=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/?S=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1268 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/index.html?S=A’
 
-     0K .                                                     100%  302M=0s
+     0K .                                                     100%  173M=0s
 
-2017-10-12 11:33:51 (302 MB/s) - ‘localhost:4000/assets/index.html?S=A’ saved [1268/1268]
+2018-06-26 10:09:31 (173 MB/s) - ‘localhost:4000/assets/index.html?S=A’ saved [1268/1268]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/css/?N=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/css/?N=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1051 (1.0K) [text/html]
@@ -468,672 +462,672 @@ Saving to: ‘localhost:4000/assets/css/index.html?N=D’
 
      0K .                                                     100%  167M=0s
 
-2017-10-12 11:33:51 (167 MB/s) - ‘localhost:4000/assets/css/index.html?N=D’ saved [1051/1051]
+2018-06-26 10:09:31 (167 MB/s) - ‘localhost:4000/assets/css/index.html?N=D’ saved [1051/1051]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/css/?M=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/css/?M=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1051 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/css/index.html?M=D’
 
-     0K .                                                     100%  251M=0s
+     0K .                                                     100%  167M=0s
 
-2017-10-12 11:33:51 (251 MB/s) - ‘localhost:4000/assets/css/index.html?M=D’ saved [1051/1051]
+2018-06-26 10:09:31 (167 MB/s) - ‘localhost:4000/assets/css/index.html?M=D’ saved [1051/1051]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/css/?S=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/css/?S=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1051 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/css/index.html?S=D’
 
-     0K .                                                     100%  251M=0s
+     0K .                                                     100%  167M=0s
 
-2017-10-12 11:33:51 (251 MB/s) - ‘localhost:4000/assets/css/index.html?S=D’ saved [1051/1051]
+2018-06-26 10:09:31 (167 MB/s) - ‘localhost:4000/assets/css/index.html?S=D’ saved [1051/1051]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/css/style.css
+--2018-06-26 10:09:31--  http://localhost:4000/assets/css/style.css
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 9061 (8.8K) [text/css]
 Saving to: ‘localhost:4000/assets/css/style.css’
 
-     0K ........                                              100%  309M=0s
+     0K ........                                              100%  104M=0s
 
-2017-10-12 11:33:51 (309 MB/s) - ‘localhost:4000/assets/css/style.css’ saved [9061/9061]
+2018-06-26 10:09:31 (104 MB/s) - ‘localhost:4000/assets/css/style.css’ saved [9061/9061]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/images/?N=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/images/?N=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1211 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/images/index.html?N=D’
 
-     0K .                                                     100%  289M=0s
+     0K .                                                     100%  144M=0s
 
-2017-10-12 11:33:51 (289 MB/s) - ‘localhost:4000/assets/images/index.html?N=D’ saved [1211/1211]
+2018-06-26 10:09:31 (144 MB/s) - ‘localhost:4000/assets/images/index.html?N=D’ saved [1211/1211]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/images/?M=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/images/?M=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1211 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/images/index.html?M=D’
 
-     0K .                                                     100%  289M=0s
+     0K .                                                     100%  165M=0s
 
-2017-10-12 11:33:51 (289 MB/s) - ‘localhost:4000/assets/images/index.html?M=D’ saved [1211/1211]
+2018-06-26 10:09:31 (165 MB/s) - ‘localhost:4000/assets/images/index.html?M=D’ saved [1211/1211]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/images/?S=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/images/?S=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1211 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/images/index.html?S=D’
 
-     0K .                                                     100%  289M=0s
+     0K .                                                     100%  192M=0s
 
-2017-10-12 11:33:51 (289 MB/s) - ‘localhost:4000/assets/images/index.html?S=D’ saved [1211/1211]
+2018-06-26 10:09:31 (192 MB/s) - ‘localhost:4000/assets/images/index.html?S=D’ saved [1211/1211]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/js/?N=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/js/?N=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1054 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/js/index.html?N=D’
 
-     0K .                                                     100% 29.6M=0s
+     0K .                                                     100%  168M=0s
 
-2017-10-12 11:33:51 (29.6 MB/s) - ‘localhost:4000/assets/js/index.html?N=D’ saved [1054/1054]
+2018-06-26 10:09:31 (168 MB/s) - ‘localhost:4000/assets/js/index.html?N=D’ saved [1054/1054]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/js/?M=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/js/?M=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1054 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/js/index.html?M=D’
 
-     0K .                                                     100%  201M=0s
+     0K .                                                     100%  126M=0s
 
-2017-10-12 11:33:51 (201 MB/s) - ‘localhost:4000/assets/js/index.html?M=D’ saved [1054/1054]
+2018-06-26 10:09:31 (126 MB/s) - ‘localhost:4000/assets/js/index.html?M=D’ saved [1054/1054]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/js/?S=D
+--2018-06-26 10:09:31--  http://localhost:4000/assets/js/?S=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1054 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/js/index.html?S=D’
 
-     0K .                                                     100%  251M=0s
+     0K .                                                     100%  168M=0s
 
-2017-10-12 11:33:51 (251 MB/s) - ‘localhost:4000/assets/js/index.html?S=D’ saved [1054/1054]
+2018-06-26 10:09:31 (168 MB/s) - ‘localhost:4000/assets/js/index.html?S=D’ saved [1054/1054]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/css/style.css?v=a717ec1f19e537fb8dcdfddf410c20206651589c
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/css/style.css?v=a717ec1f19e537fb8dcdfddf410c20206651589c
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 9061 (8.8K) [text/css]
 Saving to: ‘localhost:4000/built/assets/css/style.css?v=a717ec1f19e537fb8dcdfddf410c20206651589c’
 
-     0K ........                                              100%  320M=0s
+     0K ........                                              100%  142M=0s
 
-2017-10-12 11:33:51 (320 MB/s) - ‘localhost:4000/built/assets/css/style.css?v=a717ec1f19e537fb8dcdfddf410c20206651589c’ saved [9061/9061]
+2018-06-26 10:09:31 (142 MB/s) - ‘localhost:4000/built/assets/css/style.css?v=a717ec1f19e537fb8dcdfddf410c20206651589c’ saved [9061/9061]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/js/scale.fix.js
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/js/scale.fix.js
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 503 [application/javascript]
 Saving to: ‘localhost:4000/built/assets/js/scale.fix.js’
 
-     0K                                                       100%  120M=0s
+     0K                                                       100% 79.9M=0s
 
-2017-10-12 11:33:51 (120 MB/s) - ‘localhost:4000/built/assets/js/scale.fix.js’ saved [503/503]
+2018-06-26 10:09:31 (79.9 MB/s) - ‘localhost:4000/built/assets/js/scale.fix.js’ saved [503/503]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/index.html?N=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/index.html?N=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1339 (1.3K) [text/html]
 Saving to: ‘localhost:4000/built/assets/index.html?N=D’
 
-     0K .                                                     100%  319M=0s
+     0K .                                                     100%  182M=0s
 
-2017-10-12 11:33:51 (319 MB/s) - ‘localhost:4000/built/assets/index.html?N=D’ saved [1339/1339]
+2018-06-26 10:09:31 (182 MB/s) - ‘localhost:4000/built/assets/index.html?N=D’ saved [1339/1339]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/index.html?M=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/index.html?M=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1339 (1.3K) [text/html]
 Saving to: ‘localhost:4000/built/assets/index.html?M=D’
 
-     0K .                                                     100%  319M=0s
+     0K .                                                     100%  160M=0s
 
-2017-10-12 11:33:51 (319 MB/s) - ‘localhost:4000/built/assets/index.html?M=D’ saved [1339/1339]
+2018-06-26 10:09:31 (160 MB/s) - ‘localhost:4000/built/assets/index.html?M=D’ saved [1339/1339]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/index.html?S=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/index.html?S=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1339 (1.3K) [text/html]
 Saving to: ‘localhost:4000/built/assets/index.html?S=D’
 
-     0K .                                                     100%  255M=0s
+     0K .                                                     100%  182M=0s
 
-2017-10-12 11:33:51 (255 MB/s) - ‘localhost:4000/built/assets/index.html?S=D’ saved [1339/1339]
+2018-06-26 10:09:31 (182 MB/s) - ‘localhost:4000/built/assets/index.html?S=D’ saved [1339/1339]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/css/index.html
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/css/index.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1092 (1.1K) [text/html]
 Saving to: ‘localhost:4000/built/assets/css/index.html’
 
-     0K .                                                     100%  260M=0s
+     0K .                                                     100%  174M=0s
 
-2017-10-12 11:33:51 (260 MB/s) - ‘localhost:4000/built/assets/css/index.html’ saved [1092/1092]
+2018-06-26 10:09:31 (174 MB/s) - ‘localhost:4000/built/assets/css/index.html’ saved [1092/1092]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/images/index.html
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/images/index.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1252 (1.2K) [text/html]
 Saving to: ‘localhost:4000/built/assets/images/index.html’
 
-     0K .                                                     100%  299M=0s
+     0K .                                                     100%  199M=0s
 
-2017-10-12 11:33:51 (299 MB/s) - ‘localhost:4000/built/assets/images/index.html’ saved [1252/1252]
+2018-06-26 10:09:31 (199 MB/s) - ‘localhost:4000/built/assets/images/index.html’ saved [1252/1252]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/js/index.html
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/js/index.html
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1095 (1.1K) [text/html]
 Saving to: ‘localhost:4000/built/assets/js/index.html’
 
-     0K .                                                     100%  261M=0s
+     0K .                                                     100%  149M=0s
 
-2017-10-12 11:33:51 (261 MB/s) - ‘localhost:4000/built/assets/js/index.html’ saved [1095/1095]
+2018-06-26 10:09:31 (149 MB/s) - ‘localhost:4000/built/assets/js/index.html’ saved [1095/1095]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/getting-started
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/getting-started
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 5694 (5.6K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/getting-started’
 
-     0K .....                                                 100% 1.33G=0s
+     0K .....                                                 100%  776M=0s
 
-2017-10-12 11:33:51 (1.33 GB/s) - ‘localhost:4000/node-red-contrib-music/getting-started’ saved [5694/5694]
+2018-06-26 10:09:31 (776 MB/s) - ‘localhost:4000/node-red-contrib-music/getting-started’ saved [5694/5694]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/linux-startup.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/linux-startup.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 2368899 (2.3M) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/linux-startup.png’
 
-     0K .......... .......... .......... .......... ..........  2%  555M 0s
-    50K .......... .......... .......... .......... ..........  4%  642M 0s
-   100K .......... .......... .......... .......... ..........  6%  651M 0s
-   150K .......... .......... .......... .......... ..........  8%  421M 0s
-   200K .......... .......... .......... .......... .......... 10%  555M 0s
-   250K .......... .......... .......... .......... .......... 12%  669M 0s
-   300K .......... .......... .......... .......... .......... 15%  574M 0s
-   350K .......... .......... .......... .......... .......... 17%  651M 0s
-   400K .......... .......... .......... .......... .......... 19%  581M 0s
-   450K .......... .......... .......... .......... .......... 21%  618M 0s
-   500K .......... .......... .......... .......... .......... 23%  729M 0s
-   550K .......... .......... .......... .......... .......... 25%  718M 0s
-   600K .......... .......... .......... .......... .......... 28%  561M 0s
-   650K .......... .......... .......... .......... .......... 30%  698M 0s
-   700K .......... .......... .......... .......... .......... 32%  669M 0s
-   750K .......... .......... .......... .......... .......... 34%  698M 0s
-   800K .......... .......... .......... .......... .......... 36%  568M 0s
-   850K .......... .......... .......... .......... .......... 38%  688M 0s
-   900K .......... .......... .......... .......... .......... 41%  678M 0s
-   950K .......... .......... .......... .......... .......... 43%  660M 0s
-  1000K .......... .......... .......... .......... .......... 45%  603M 0s
-  1050K .......... .......... .......... .......... .......... 47%  678M 0s
-  1100K .......... .......... .......... .......... .......... 49%  688M 0s
-  1150K .......... .......... .......... .......... .......... 51%  708M 0s
-  1200K .......... .......... .......... .......... .......... 54%  618M 0s
-  1250K .......... .......... .......... .......... .......... 56%  718M 0s
-  1300K .......... .......... .......... .......... .......... 58%  718M 0s
-  1350K .......... .......... .......... .......... .......... 60%  718M 0s
-  1400K .......... .......... .......... .......... .......... 62%  610M 0s
-  1450K .......... .......... .......... .......... .......... 64%  634M 0s
-  1500K .......... .......... .......... .......... .......... 67%  651M 0s
-  1550K .......... .......... .......... .......... .......... 69%  698M 0s
-  1600K .......... .......... .......... .......... .......... 71%  588M 0s
-  1650K .......... .......... .......... .......... .......... 73%  688M 0s
-  1700K .......... .......... .......... .......... .......... 75%  688M 0s
-  1750K .......... .......... .......... .......... .......... 77%  708M 0s
-  1800K .......... .......... .......... .......... .......... 79%  610M 0s
-  1850K .......... .......... .......... .......... .......... 82%  708M 0s
-  1900K .......... .......... .......... .......... .......... 84%  698M 0s
-  1950K .......... .......... .......... .......... .......... 86%  708M 0s
-  2000K .......... .......... .......... .......... .......... 88%  581M 0s
-  2050K .......... .......... .......... .......... .......... 90%  651M 0s
-  2100K .......... .......... .......... .......... .......... 92%  718M 0s
-  2150K .......... .......... .......... .......... .......... 95%  718M 0s
-  2200K .......... .......... .......... .......... .......... 97%  436M 0s
-  2250K .......... .......... .......... .......... .......... 99%  718M 0s
-  2300K .......... ...                                        100%  568M=0.004s
+     0K .......... .......... .......... .......... ..........  2%  176M 0s
+    50K .......... .......... .......... .......... ..........  4%  296M 0s
+   100K .......... .......... .......... .......... ..........  6%  305M 0s
+   150K .......... .......... .......... .......... ..........  8%  440M 0s
+   200K .......... .......... .......... .......... .......... 10%  356M 0s
+   250K .......... .......... .......... .......... .......... 12%  391M 0s
+   300K .......... .......... .......... .......... .......... 15%  354M 0s
+   350K .......... .......... .......... .......... .......... 17%  289M 0s
+   400K .......... .......... .......... .......... .......... 19%  349M 0s
+   450K .......... .......... .......... .......... .......... 21%  337M 0s
+   500K .......... .......... .......... .......... .......... 23%  391M 0s
+   550K .......... .......... .......... .......... .......... 25%  417M 0s
+   600K .......... .......... .......... .......... .......... 28%  317M 0s
+   650K .......... .......... .......... .......... .......... 30%  448M 0s
+   700K .......... .......... .......... .......... .......... 32%  391M 0s
+   750K .......... .......... .......... .......... .......... 34%  356M 0s
+   800K .......... .......... .......... .......... .......... 36%  339M 0s
+   850K .......... .......... .......... .......... .......... 38%  313M 0s
+   900K .......... .......... .......... .......... .......... 41%  276M 0s
+   950K .......... .......... .......... .......... .......... 43%  394M 0s
+  1000K .......... .......... .......... .......... .......... 45%  330M 0s
+  1050K .......... .......... .......... .......... .......... 47%  404M 0s
+  1100K .......... .......... .......... .......... .......... 49%  400M 0s
+  1150K .......... .......... .......... .......... .......... 51%  407M 0s
+  1200K .......... .......... .......... .......... .......... 54%  341M 0s
+  1250K .......... .......... .......... .......... .......... 56%  444M 0s
+  1300K .......... .......... .......... .......... .......... 58%  444M 0s
+  1350K .......... .......... .......... .......... .......... 60%  428M 0s
+  1400K .......... .......... .......... .......... .......... 62%  356M 0s
+  1450K .......... .......... .......... .......... .......... 64%  440M 0s
+  1500K .......... .......... .......... .......... .......... 67%  428M 0s
+  1550K .......... .......... .......... .......... .......... 69%  444M 0s
+  1600K .......... .......... .......... .......... .......... 71%  370M 0s
+  1650K .......... .......... .......... .......... .......... 73%  440M 0s
+  1700K .......... .......... .......... .......... .......... 75%  448M 0s
+  1750K .......... .......... .......... .......... .......... 77%  404M 0s
+  1800K .......... .......... .......... .......... .......... 79%  384M 0s
+  1850K .......... .......... .......... .......... .......... 82%  428M 0s
+  1900K .......... .......... .......... .......... .......... 84%  448M 0s
+  1950K .......... .......... .......... .......... .......... 86%  448M 0s
+  2000K .......... .......... .......... .......... .......... 88%  384M 0s
+  2050K .......... .......... .......... .......... .......... 90%  448M 0s
+  2100K .......... .......... .......... .......... .......... 92%  394M 0s
+  2150K .......... .......... .......... .......... .......... 95%  456M 0s
+  2200K .......... .......... .......... .......... .......... 97%  391M 0s
+  2250K .......... .......... .......... .......... .......... 99%  421M 0s
+  2300K .......... ...                                        100%  353M=0.006s
 
-2017-10-12 11:33:51 (639 MB/s) - ‘localhost:4000/node-red-contrib-music/linux-startup.png’ saved [2368899/2368899]
+2018-06-26 10:09:31 (372 MB/s) - ‘localhost:4000/node-red-contrib-music/linux-startup.png’ saved [2368899/2368899]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/programs.svg
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/programs.svg
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 2652 (2.6K) [image/svg+xml]
 Saving to: ‘localhost:4000/node-red-contrib-music/programs.svg’
 
-     0K ..                                                    100%  632M=0s
+     0K ..                                                    100%  422M=0s
 
-2017-10-12 11:33:51 (632 MB/s) - ‘localhost:4000/node-red-contrib-music/programs.svg’ saved [2652/2652]
+2018-06-26 10:09:31 (422 MB/s) - ‘localhost:4000/node-red-contrib-music/programs.svg’ saved [2652/2652]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/terminal-icon.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/terminal-icon.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 682 [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/terminal-icon.png’
 
-     0K                                                       100%  163M=0s
+     0K                                                       100%  108M=0s
 
-2017-10-12 11:33:51 (163 MB/s) - ‘localhost:4000/node-red-contrib-music/terminal-icon.png’ saved [682/682]
+2018-06-26 10:09:31 (108 MB/s) - ‘localhost:4000/node-red-contrib-music/terminal-icon.png’ saved [682/682]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/linux-terminal.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/linux-terminal.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 2047467 (2.0M) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/linux-terminal.png’
 
-     0K .......... .......... .......... .......... ..........  2%  531M 0s
-    50K .......... .......... .......... .......... ..........  5%  555M 0s
-   100K .......... .......... .......... .......... ..........  7%  568M 0s
-   150K .......... .......... .......... .......... .......... 10%  574M 0s
-   200K .......... .......... .......... .......... .......... 12%  531M 0s
-   250K .......... .......... .......... .......... .......... 15%  651M 0s
-   300K .......... .......... .......... .......... .......... 17%  669M 0s
-   350K .......... .......... .......... .......... .......... 20%  452M 0s
-   400K .......... .......... .......... .......... .......... 22%  603M 0s
-   450K .......... .......... .......... .......... .......... 25%  626M 0s
-   500K .......... .......... .......... .......... .......... 27%  729M 0s
-   550K .......... .......... .......... .......... .......... 30%  718M 0s
-   600K .......... .......... .......... .......... .......... 32%  603M 0s
-   650K .......... .......... .......... .......... .......... 35%  718M 0s
-   700K .......... .......... .......... .......... .......... 37%  718M 0s
-   750K .......... .......... .......... .......... .......... 40%  651M 0s
-   800K .......... .......... .......... .......... .......... 42%  574M 0s
-   850K .......... .......... .......... .......... .......... 45%  561M 0s
-   900K .......... .......... .......... .......... .......... 47%  493M 0s
-   950K .......... .......... .......... .......... .......... 50%  391M 0s
-  1000K .......... .......... .......... .......... .......... 52%  432M 0s
+     0K .......... .......... .......... .......... ..........  2%  170M 0s
+    50K .......... .......... .......... .......... ..........  5%  167M 0s
+   100K .......... .......... .......... .......... ..........  7%  258M 0s
+   150K .......... .......... .......... .......... .......... 10%  210M 0s
+   200K .......... .......... .......... .......... .......... 12%  230M 0s
+   250K .......... .......... .......... .......... .......... 15%  248M 0s
+   300K .......... .......... .......... .......... .......... 17%  230M 0s
+   350K .......... .......... .......... .......... .......... 20%  284M 0s
+   400K .......... .......... .......... .......... .......... 22%  384M 0s
+   450K .......... .......... .......... .......... .......... 25%  414M 0s
+   500K .......... .......... .......... .......... .......... 27%  414M 0s
+   550K .......... .......... .......... .......... .......... 30%  391M 0s
+   600K .......... .......... .......... .......... .......... 32%  328M 0s
+   650K .......... .......... .......... .......... .......... 35%  456M 0s
+   700K .......... .......... .......... .......... .......... 37%  421M 0s
+   750K .......... .......... .......... .......... .......... 40%  421M 0s
+   800K .......... .......... .......... .......... .......... 42%  351M 0s
+   850K .......... .......... .......... .......... .......... 45%  456M 0s
+   900K .......... .......... .......... .......... .......... 47%  400M 0s
+   950K .......... .......... .......... .......... .......... 50%  414M 0s
+  1000K .......... .......... .......... .......... .......... 52%  354M 0s
   1050K .......... .......... .......... .......... .......... 55%  400M 0s
-  1100K .......... .......... .......... .......... .......... 57%  397M 0s
-  1150K .......... .......... .......... .......... .......... 60%  537M 0s
-  1200K .......... .......... .......... .......... .......... 62%  400M 0s
-  1250K .......... .......... .......... .......... .......... 65%  595M 0s
-  1300K .......... .......... .......... .......... .......... 67%  660M 0s
-  1350K .......... .......... .......... .......... .......... 70%  561M 0s
-  1400K .......... .......... .......... .......... .......... 72%  568M 0s
-  1450K .......... .......... .......... .......... .......... 75%  669M 0s
-  1500K .......... .......... .......... .......... .......... 77%  669M 0s
-  1550K .......... .......... .......... .......... .......... 80%  595M 0s
-  1600K .......... .......... .......... .......... .......... 82%  421M 0s
-  1650K .......... .......... .......... .......... .......... 85%  618M 0s
-  1700K .......... .......... .......... .......... .......... 87%  708M 0s
-  1750K .......... .......... .......... .......... .......... 90%  708M 0s
-  1800K .......... .......... .......... .......... .......... 92%  595M 0s
-  1850K .......... .......... .......... .......... .......... 95%  698M 0s
-  1900K .......... .......... .......... .......... .......... 97%  698M 0s
-  1950K .......... .......... .......... .......... ......... 100%  711M=0.003s
+  1100K .......... .......... .......... .......... .......... 57%  404M 0s
+  1150K .......... .......... .......... .......... .......... 60%  448M 0s
+  1200K .......... .......... .......... .......... .......... 62%  373M 0s
+  1250K .......... .......... .......... .......... .......... 65%  479M 0s
+  1300K .......... .......... .......... .......... .......... 67%  479M 0s
+  1350K .......... .......... .......... .......... .......... 70%  373M 0s
+  1400K .......... .......... .......... .......... .......... 72%  414M 0s
+  1450K .......... .......... .......... .......... .......... 75%  479M 0s
+  1500K .......... .......... .......... .......... .......... 77%  483M 0s
+  1550K .......... .......... .......... .......... .......... 80%  479M 0s
+  1600K .......... .......... .......... .......... .......... 82%  323M 0s
+  1650K .......... .......... .......... .......... .......... 85%  461M 0s
+  1700K .......... .......... .......... .......... .......... 87%  479M 0s
+  1750K .......... .......... .......... .......... .......... 90%  483M 0s
+  1800K .......... .......... .......... .......... .......... 92%  410M 0s
+  1850K .......... .......... .......... .......... .......... 95%  384M 0s
+  1900K .......... .......... .......... .......... .......... 97%  298M 0s
+  1950K .......... .......... .......... .......... ......... 100%  249M=0.006s
 
-2017-10-12 11:33:51 (569 MB/s) - ‘localhost:4000/node-red-contrib-music/linux-terminal.png’ saved [2047467/2047467]
+2018-06-26 10:09:31 (343 MB/s) - ‘localhost:4000/node-red-contrib-music/linux-terminal.png’ saved [2047467/2047467]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/browser-icon.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/browser-icon.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1412 (1.4K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/browser-icon.png’
 
-     0K .                                                     100%  449M=0s
+     0K .                                                     100%  224M=0s
 
-2017-10-12 11:33:51 (449 MB/s) - ‘localhost:4000/node-red-contrib-music/browser-icon.png’ saved [1412/1412]
+2018-06-26 10:09:31 (224 MB/s) - ‘localhost:4000/node-red-contrib-music/browser-icon.png’ saved [1412/1412]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/linux-node-red.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/linux-node-red.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 678529 (663K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/linux-node-red.png’
 
-     0K .......... .......... .......... .......... ..........  7%  493M 0s
-    50K .......... .......... .......... .......... .......... 15%  634M 0s
-   100K .......... .......... .......... .......... .......... 22%  514M 0s
-   150K .......... .......... .......... .......... .......... 30%  634M 0s
-   200K .......... .......... .......... .......... .......... 37%  549M 0s
-   250K .......... .......... .......... .......... .......... 45%  626M 0s
-   300K .......... .......... .......... .......... .......... 52%  549M 0s
-   350K .......... .......... .......... .......... .......... 60%  610M 0s
-   400K .......... .......... .......... .......... .......... 67%  400M 0s
-   450K .......... .......... .......... .......... .......... 75%  618M 0s
-   500K .......... .......... .......... .......... .......... 83%  618M 0s
-   550K .......... .......... .......... .......... .......... 90%  634M 0s
-   600K .......... .......... .......... .......... .......... 98%  531M 0s
-   650K .......... ..                                         100%  881M=0.001s
+     0K .......... .......... .......... .......... ..........  7%  183M 0s
+    50K .......... .......... .......... .......... .......... 15%  274M 0s
+   100K .......... .......... .......... .......... .......... 22%  332M 0s
+   150K .......... .......... .......... .......... .......... 30%  461M 0s
+   200K .......... .......... .......... .......... .......... 37%  337M 0s
+   250K .......... .......... .......... .......... .......... 45%  417M 0s
+   300K .......... .......... .......... .......... .......... 52%  421M 0s
+   350K .......... .......... .......... .......... .......... 60%  328M 0s
+   400K .......... .......... .......... .......... .......... 67%  388M 0s
+   450K .......... .......... .......... .......... .......... 75%  334M 0s
+   500K .......... .......... .......... .......... .......... 83%  417M 0s
+   550K .......... .......... .......... .......... .......... 90%  421M 0s
+   600K .......... .......... .......... .......... .......... 98%  364M 0s
+   650K .......... ..                                         100%  649M=0.002s
 
-2017-10-12 11:33:51 (564 MB/s) - ‘localhost:4000/node-red-contrib-music/linux-node-red.png’ saved [678529/678529]
+2018-06-26 10:09:31 (344 MB/s) - ‘localhost:4000/node-red-contrib-music/linux-node-red.png’ saved [678529/678529]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/node-red-basics
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/node-red-basics
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 8771 (8.6K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/node-red-basics’
 
-     0K ........                                              100%  299M=0s
+     0K ........                                              100%  137M=0s
 
-2017-10-12 11:33:51 (299 MB/s) - ‘localhost:4000/node-red-contrib-music/node-red-basics’ saved [8771/8771]
+2018-06-26 10:09:31 (137 MB/s) - ‘localhost:4000/node-red-contrib-music/node-red-basics’ saved [8771/8771]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/blank-node-red.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/blank-node-red.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 198192 (194K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/blank-node-red.png’
 
-     0K .......... .......... .......... .......... .......... 25%  531M 0s
-    50K .......... .......... .......... .......... .......... 51%  488M 0s
-   100K .......... .......... .......... .......... .......... 77%  610M 0s
-   150K .......... .......... .......... .......... ...       100%  434M=0s
+     0K .......... .......... .......... .......... .......... 25%  213M 0s
+    50K .......... .......... .......... .......... .......... 51%  349M 0s
+   100K .......... .......... .......... .......... .......... 77%  414M 0s
+   150K .......... .......... .......... .......... ...       100%  401M=0.001s
 
-2017-10-12 11:33:51 (511 MB/s) - ‘localhost:4000/node-red-contrib-music/blank-node-red.png’ saved [198192/198192]
+2018-06-26 10:09:31 (319 MB/s) - ‘localhost:4000/node-red-contrib-music/blank-node-red.png’ saved [198192/198192]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/two-nodes.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/two-nodes.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 27804 (27K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/two-nodes.png’
 
-     0K .......... .......... .......                         100%  491M=0s
+     0K .......... .......... .......                         100%  223M=0s
 
-2017-10-12 11:33:51 (491 MB/s) - ‘localhost:4000/node-red-contrib-music/two-nodes.png’ saved [27804/27804]
+2018-06-26 10:09:31 (223 MB/s) - ‘localhost:4000/node-red-contrib-music/two-nodes.png’ saved [27804/27804]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/deploy.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/deploy.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 4873 (4.8K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/deploy.png’
 
-     0K ....                                                  100%  929M=0s
+     0K ....                                                  100%  290M=0s
 
-2017-10-12 11:33:51 (929 MB/s) - ‘localhost:4000/node-red-contrib-music/deploy.png’ saved [4873/4873]
+2018-06-26 10:09:31 (290 MB/s) - ‘localhost:4000/node-red-contrib-music/deploy.png’ saved [4873/4873]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/debug-payload.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/debug-payload.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 20362 (20K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/debug-payload.png’
 
-     0K .......... .........                                  100%  313M=0s
+     0K .......... .........                                  100%  223M=0s
 
-2017-10-12 11:33:51 (313 MB/s) - ‘localhost:4000/node-red-contrib-music/debug-payload.png’ saved [20362/20362]
+2018-06-26 10:09:31 (223 MB/s) - ‘localhost:4000/node-red-contrib-music/debug-payload.png’ saved [20362/20362]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/configure-inject.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/configure-inject.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 82318 (80K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/configure-inject.png’
 
-     0K .......... .......... .......... .......... .......... 62%  465M 0s
-    50K .......... .......... ..........                      100%  618M=0s
+     0K .......... .......... .......... .......... .......... 62%  223M 0s
+    50K .......... .......... ..........                      100%  280M=0s
 
-2017-10-12 11:33:51 (513 MB/s) - ‘localhost:4000/node-red-contrib-music/configure-inject.png’ saved [82318/82318]
+2018-06-26 10:09:31 (242 MB/s) - ‘localhost:4000/node-red-contrib-music/configure-inject.png’ saved [82318/82318]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/debug-complete.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/debug-complete.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 34120 (33K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/debug-complete.png’
 
-     0K .......... .......... .......... ...                  100%  542M=0s
+     0K .......... .......... .......... ...                  100%  163M=0s
 
-2017-10-12 11:33:51 (542 MB/s) - ‘localhost:4000/node-red-contrib-music/debug-complete.png’ saved [34120/34120]
+2018-06-26 10:09:31 (163 MB/s) - ‘localhost:4000/node-red-contrib-music/debug-complete.png’ saved [34120/34120]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/making-music
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/making-music
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 17316 (17K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/making-music’
 
-     0K .......... ......                                     100%  384M=0s
+     0K .......... ......                                     100%  192M=0s
 
-2017-10-12 11:33:51 (384 MB/s) - ‘localhost:4000/node-red-contrib-music/making-music’ saved [17316/17316]
+2018-06-26 10:09:31 (192 MB/s) - ‘localhost:4000/node-red-contrib-music/making-music’ saved [17316/17316]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/node-red-menu.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/node-red-menu.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 66455 (65K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/node-red-menu.png’
 
-     0K .......... .......... .......... .......... .......... 77%  561M 0s
-    50K .......... ....                                       100%  539M=0s
+     0K .......... .......... .......... .......... .......... 77%  210M 0s
+    50K .......... ....                                       100%  231M=0s
 
-2017-10-12 11:33:51 (556 MB/s) - ‘localhost:4000/node-red-contrib-music/node-red-menu.png’ saved [66455/66455]
+2018-06-26 10:09:31 (215 MB/s) - ‘localhost:4000/node-red-contrib-music/node-red-menu.png’ saved [66455/66455]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/first-sound-parts.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/first-sound-parts.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 38772 (38K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/first-sound-parts.png’
 
-     0K .......... .......... .......... .......              100%  514M=0s
+     0K .......... .......... .......... .......              100%  242M=0s
 
-2017-10-12 11:33:51 (514 MB/s) - ‘localhost:4000/node-red-contrib-music/first-sound-parts.png’ saved [38772/38772]
+2018-06-26 10:09:31 (242 MB/s) - ‘localhost:4000/node-red-contrib-music/first-sound-parts.png’ saved [38772/38772]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/first-sound.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/first-sound.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 38546 (38K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/first-sound.png’
 
-     0K .......... .......... .......... .......              100%  566M=0s
+     0K .......... .......... .......... .......              100%  242M=0s
 
-2017-10-12 11:33:51 (566 MB/s) - ‘localhost:4000/node-red-contrib-music/first-sound.png’ saved [38546/38546]
+2018-06-26 10:09:31 (242 MB/s) - ‘localhost:4000/node-red-contrib-music/first-sound.png’ saved [38546/38546]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/beat-parts.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/beat-parts.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 84275 (82K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/beat-parts.png’
 
-     0K .......... .......... .......... .......... .......... 60%  488M 0s
-    50K .......... .......... .......... ..                   100%  631M=0s
+     0K .......... .......... .......... .......... .......... 60%  230M 0s
+    50K .......... .......... .......... ..                   100%  287M=0s
 
-2017-10-12 11:33:51 (536 MB/s) - ‘localhost:4000/node-red-contrib-music/beat-parts.png’ saved [84275/84275]
+2018-06-26 10:09:31 (250 MB/s) - ‘localhost:4000/node-red-contrib-music/beat-parts.png’ saved [84275/84275]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/beat-kick.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/beat-kick.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 69738 (68K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/beat-kick.png’
 
-     0K .......... .......... .......... .......... .......... 73%  574M 0s
-    50K .......... ........                                   100%  680M=0s
+     0K .......... .......... .......... .......... .......... 73%  161M 0s
+    50K .......... ........                                   100%  276M=0s
 
-2017-10-12 11:33:51 (599 MB/s) - ‘localhost:4000/node-red-contrib-music/beat-kick.png’ saved [69738/69738]
+2018-06-26 10:09:31 (181 MB/s) - ‘localhost:4000/node-red-contrib-music/beat-kick.png’ saved [69738/69738]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/drum-beat-parts.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/drum-beat-parts.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 107593 (105K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/drum-beat-parts.png’
 
-     0K .......... .......... .......... .......... .......... 47%  549M 0s
-    50K .......... .......... .......... .......... .......... 95%  688M 0s
-   100K .....                                                 100%  381M=0s
+     0K .......... .......... .......... .......... .......... 47%  181M 0s
+    50K .......... .......... .......... .......... .......... 95%  341M 0s
+   100K .....                                                 100%  236M=0s
 
-2017-10-12 11:33:51 (593 MB/s) - ‘localhost:4000/node-red-contrib-music/drum-beat-parts.png’ saved [107593/107593]
+2018-06-26 10:09:31 (236 MB/s) - ‘localhost:4000/node-red-contrib-music/drum-beat-parts.png’ saved [107593/107593]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/drum-beat.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/drum-beat.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 103898 (101K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/drum-beat.png’
 
-     0K .......... .......... .......... .......... .......... 49%  470M 0s
-    50K .......... .......... .......... .......... .......... 98%  626M 0s
+     0K .......... .......... .......... .......... .......... 49%  245M 0s
+    50K .......... .......... .......... .......... .......... 98%  344M 0s
    100K .                                                     100% 29.3K=0s
 
-2017-10-12 11:33:51 (544 MB/s) - ‘localhost:4000/node-red-contrib-music/drum-beat.png’ saved [103898/103898]
+2018-06-26 10:09:31 (291 MB/s) - ‘localhost:4000/node-red-contrib-music/drum-beat.png’ saved [103898/103898]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/sequencing
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/sequencing
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 6665 (6.5K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/sequencing’
 
-     0K ......                                                100% 1.24G=0s
+     0K ......                                                100%  908M=0s
 
-2017-10-12 11:33:51 (1.24 GB/s) - ‘localhost:4000/node-red-contrib-music/sequencing’ saved [6665/6665]
+2018-06-26 10:09:31 (908 MB/s) - ‘localhost:4000/node-red-contrib-music/sequencing’ saved [6665/6665]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/sequencer-parts.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/sequencer-parts.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 81966 (80K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/sequencer-parts.png’
 
-     0K .......... .......... .......... .......... .......... 62%  537M 0s
-    50K .......... .......... ..........                      100%  554M=0s
+     0K .......... .......... .......... .......... .......... 62%  245M 0s
+    50K .......... .......... ..........                      100%  272M=0s
 
-2017-10-12 11:33:51 (543 MB/s) - ‘localhost:4000/node-red-contrib-music/sequencer-parts.png’ saved [81966/81966]
+2018-06-26 10:09:31 (255 MB/s) - ‘localhost:4000/node-red-contrib-music/sequencer-parts.png’ saved [81966/81966]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/sequencer.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/sequencer.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 84103 (82K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/sequencer.png’
 
-     0K .......... .......... .......... .......... .......... 60%  555M 0s
-    50K .......... .......... .......... ..                   100%  640M=0s
+     0K .......... .......... .......... .......... .......... 60%  245M 0s
+    50K .......... .......... .......... ..                   100%  293M=0s
 
-2017-10-12 11:33:51 (585 MB/s) - ‘localhost:4000/node-red-contrib-music/sequencer.png’ saved [84103/84103]
+2018-06-26 10:09:31 (262 MB/s) - ‘localhost:4000/node-red-contrib-music/sequencer.png’ saved [84103/84103]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/sequencer-configure.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/sequencer-configure.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 114744 (112K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/sequencer-configure.png’
 
-     0K .......... .......... .......... .......... .......... 44%  543M 0s
-    50K .......... .......... .......... .......... .......... 89%  651M 0s
-   100K .......... ..                                         100%  453M=0s
+     0K .......... .......... .......... .......... .......... 44%  190M 0s
+    50K .......... .......... .......... .......... .......... 89%  315M 0s
+   100K .......... ..                                         100%  294M=0s
 
-2017-10-12 11:33:51 (573 MB/s) - ‘localhost:4000/node-red-contrib-music/sequencer-configure.png’ saved [114744/114744]
+2018-06-26 10:09:31 (242 MB/s) - ‘localhost:4000/node-red-contrib-music/sequencer-configure.png’ saved [114744/114744]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/controlling-synths
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/controlling-synths
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 9978 (9.7K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/controlling-synths’
 
-     0K .........                                             100%  366M=0s
+     0K .........                                             100%  127M=0s
 
-2017-10-12 11:33:51 (366 MB/s) - ‘localhost:4000/node-red-contrib-music/controlling-synths’ saved [9978/9978]
+2018-06-26 10:09:31 (127 MB/s) - ‘localhost:4000/node-red-contrib-music/controlling-synths’ saved [9978/9978]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/programs-distributed.svg
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/programs-distributed.svg
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 5656 (5.5K) [image/svg+xml]
 Saving to: ‘localhost:4000/node-red-contrib-music/programs-distributed.svg’
 
-     0K .....                                                 100% 1.32G=0s
+     0K .....                                                 100%  771M=0s
 
-2017-10-12 11:33:51 (1.32 GB/s) - ‘localhost:4000/node-red-contrib-music/programs-distributed.svg’ saved [5656/5656]
+2018-06-26 10:09:31 (771 MB/s) - ‘localhost:4000/node-red-contrib-music/programs-distributed.svg’ saved [5656/5656]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/remote-sc.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/remote-sc.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 41547 (41K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/remote-sc.png’
 
-     0K .......... .......... .......... ..........           100%  466M=0s
+     0K .......... .......... .......... ..........           100%  230M=0s
 
-2017-10-12 11:33:51 (466 MB/s) - ‘localhost:4000/node-red-contrib-music/remote-sc.png’ saved [41547/41547]
+2018-06-26 10:09:31 (230 MB/s) - ‘localhost:4000/node-red-contrib-music/remote-sc.png’ saved [41547/41547]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/css/?N=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/css/?N=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1051 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/css/index.html?N=A’
 
-     0K .                                                     100%  251M=0s
+     0K .                                                     100%  200M=0s
 
-2017-10-12 11:33:51 (251 MB/s) - ‘localhost:4000/assets/css/index.html?N=A’ saved [1051/1051]
+2018-06-26 10:09:31 (200 MB/s) - ‘localhost:4000/assets/css/index.html?N=A’ saved [1051/1051]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/css/?M=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/css/?M=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1051 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/css/index.html?M=A’
 
-     0K .                                                     100%  251M=0s
+     0K .                                                     100%  167M=0s
 
-2017-10-12 11:33:51 (251 MB/s) - ‘localhost:4000/assets/css/index.html?M=A’ saved [1051/1051]
+2018-06-26 10:09:31 (167 MB/s) - ‘localhost:4000/assets/css/index.html?M=A’ saved [1051/1051]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/css/?S=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/css/?S=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1051 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/css/index.html?S=A’
 
-     0K .                                                     100%  251M=0s
+     0K .                                                     100%  167M=0s
 
-2017-10-12 11:33:51 (251 MB/s) - ‘localhost:4000/assets/css/index.html?S=A’ saved [1051/1051]
+2018-06-26 10:09:31 (167 MB/s) - ‘localhost:4000/assets/css/index.html?S=A’ saved [1051/1051]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/images/?N=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/images/?N=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1211 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/images/index.html?N=A’
 
-     0K .                                                     100%  289M=0s
+     0K .                                                     100% 23.1M=0s
 
-2017-10-12 11:33:51 (289 MB/s) - ‘localhost:4000/assets/images/index.html?N=A’ saved [1211/1211]
+2018-06-26 10:09:31 (23.1 MB/s) - ‘localhost:4000/assets/images/index.html?N=A’ saved [1211/1211]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/images/?M=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/images/?M=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1211 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/images/index.html?M=A’
 
-     0K .                                                     100%  289M=0s
+     0K .                                                     100%  192M=0s
 
-2017-10-12 11:33:51 (289 MB/s) - ‘localhost:4000/assets/images/index.html?M=A’ saved [1211/1211]
+2018-06-26 10:09:31 (192 MB/s) - ‘localhost:4000/assets/images/index.html?M=A’ saved [1211/1211]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/images/?S=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/images/?S=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1211 (1.2K) [text/html]
 Saving to: ‘localhost:4000/assets/images/index.html?S=A’
 
-     0K .                                                     100%  385M=0s
+     0K .                                                     100%  192M=0s
 
-2017-10-12 11:33:51 (385 MB/s) - ‘localhost:4000/assets/images/index.html?S=A’ saved [1211/1211]
+2018-06-26 10:09:31 (192 MB/s) - ‘localhost:4000/assets/images/index.html?S=A’ saved [1211/1211]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/js/?N=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/js/?N=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1054 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/js/index.html?N=A’
 
-     0K .                                                     100%  251M=0s
+     0K .                                                     100%  168M=0s
 
-2017-10-12 11:33:51 (251 MB/s) - ‘localhost:4000/assets/js/index.html?N=A’ saved [1054/1054]
+2018-06-26 10:09:31 (168 MB/s) - ‘localhost:4000/assets/js/index.html?N=A’ saved [1054/1054]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/js/?M=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/js/?M=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1054 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/js/index.html?M=A’
 
-     0K .                                                     100%  201M=0s
+     0K .                                                     100%  168M=0s
 
-2017-10-12 11:33:51 (201 MB/s) - ‘localhost:4000/assets/js/index.html?M=A’ saved [1054/1054]
+2018-06-26 10:09:31 (168 MB/s) - ‘localhost:4000/assets/js/index.html?M=A’ saved [1054/1054]
 
---2017-10-12 11:33:51--  http://localhost:4000/assets/js/?S=A
+--2018-06-26 10:09:31--  http://localhost:4000/assets/js/?S=A
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1054 (1.0K) [text/html]
 Saving to: ‘localhost:4000/assets/js/index.html?S=A’
 
-     0K .                                                     100%  201M=0s
+     0K .                                                     100%  144M=0s
 
-2017-10-12 11:33:51 (201 MB/s) - ‘localhost:4000/assets/js/index.html?S=A’ saved [1054/1054]
+2018-06-26 10:09:31 (144 MB/s) - ‘localhost:4000/assets/js/index.html?S=A’ saved [1054/1054]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/images/arrow-down.png
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/images/arrow-down.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 216 [image/png]
@@ -1141,186 +1135,186 @@ Saving to: ‘localhost:4000/built/assets/images/arrow-down.png’
 
      0K                                                       100% 34.3M=0s
 
-2017-10-12 11:33:51 (34.3 MB/s) - ‘localhost:4000/built/assets/images/arrow-down.png’ saved [216/216]
+2018-06-26 10:09:31 (34.3 MB/s) - ‘localhost:4000/built/assets/images/arrow-down.png’ saved [216/216]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/images/octocat-small.png
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/images/octocat-small.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 357 [image/png]
 Saving to: ‘localhost:4000/built/assets/images/octocat-small.png’
 
-     0K                                                       100% 85.1M=0s
+     0K                                                       100% 56.7M=0s
 
-2017-10-12 11:33:51 (85.1 MB/s) - ‘localhost:4000/built/assets/images/octocat-small.png’ saved [357/357]
+2018-06-26 10:09:31 (56.7 MB/s) - ‘localhost:4000/built/assets/images/octocat-small.png’ saved [357/357]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/css/index.html?N=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/css/index.html?N=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1092 (1.1K) [text/html]
 Saving to: ‘localhost:4000/built/assets/css/index.html?N=D’
 
-     0K .                                                     100%  260M=0s
+     0K .                                                     100%  174M=0s
 
-2017-10-12 11:33:51 (260 MB/s) - ‘localhost:4000/built/assets/css/index.html?N=D’ saved [1092/1092]
+2018-06-26 10:09:31 (174 MB/s) - ‘localhost:4000/built/assets/css/index.html?N=D’ saved [1092/1092]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/css/index.html?M=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/css/index.html?M=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1092 (1.1K) [text/html]
 Saving to: ‘localhost:4000/built/assets/css/index.html?M=D’
 
-     0K .                                                     100%  260M=0s
+     0K .                                                     100%  208M=0s
 
-2017-10-12 11:33:51 (260 MB/s) - ‘localhost:4000/built/assets/css/index.html?M=D’ saved [1092/1092]
+2018-06-26 10:09:31 (208 MB/s) - ‘localhost:4000/built/assets/css/index.html?M=D’ saved [1092/1092]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/css/index.html?S=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/css/index.html?S=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1092 (1.1K) [text/html]
 Saving to: ‘localhost:4000/built/assets/css/index.html?S=D’
 
-     0K .                                                     100%  174M=0s
+     0K .                                                     100%  149M=0s
 
-2017-10-12 11:33:51 (174 MB/s) - ‘localhost:4000/built/assets/css/index.html?S=D’ saved [1092/1092]
+2018-06-26 10:09:31 (149 MB/s) - ‘localhost:4000/built/assets/css/index.html?S=D’ saved [1092/1092]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/css/style.css
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/css/style.css
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 9061 (8.8K) [text/css]
 Saving to: ‘localhost:4000/built/assets/css/style.css’
 
-     0K ........                                              100%  309M=0s
+     0K ........                                              100%  160M=0s
 
-2017-10-12 11:33:51 (309 MB/s) - ‘localhost:4000/built/assets/css/style.css’ saved [9061/9061]
+2018-06-26 10:09:31 (160 MB/s) - ‘localhost:4000/built/assets/css/style.css’ saved [9061/9061]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/images/index.html?N=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/images/index.html?N=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1252 (1.2K) [text/html]
 Saving to: ‘localhost:4000/built/assets/images/index.html?N=D’
 
-     0K .                                                     100%  299M=0s
+     0K .                                                     100%  199M=0s
 
-2017-10-12 11:33:51 (299 MB/s) - ‘localhost:4000/built/assets/images/index.html?N=D’ saved [1252/1252]
+2018-06-26 10:09:31 (199 MB/s) - ‘localhost:4000/built/assets/images/index.html?N=D’ saved [1252/1252]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/images/index.html?M=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/images/index.html?M=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1252 (1.2K) [text/html]
 Saving to: ‘localhost:4000/built/assets/images/index.html?M=D’
 
-     0K .                                                     100%  398M=0s
+     0K .                                                     100%  199M=0s
 
-2017-10-12 11:33:51 (398 MB/s) - ‘localhost:4000/built/assets/images/index.html?M=D’ saved [1252/1252]
+2018-06-26 10:09:31 (199 MB/s) - ‘localhost:4000/built/assets/images/index.html?M=D’ saved [1252/1252]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/images/index.html?S=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/images/index.html?S=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1252 (1.2K) [text/html]
 Saving to: ‘localhost:4000/built/assets/images/index.html?S=D’
 
-     0K .                                                     100%  299M=0s
+     0K .                                                     100%  199M=0s
 
-2017-10-12 11:33:51 (299 MB/s) - ‘localhost:4000/built/assets/images/index.html?S=D’ saved [1252/1252]
+2018-06-26 10:09:31 (199 MB/s) - ‘localhost:4000/built/assets/images/index.html?S=D’ saved [1252/1252]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/js/index.html?N=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/js/index.html?N=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1095 (1.1K) [text/html]
 Saving to: ‘localhost:4000/built/assets/js/index.html?N=D’
 
-     0K .                                                     100%  261M=0s
+     0K .                                                     100% 94.9M=0s
 
-2017-10-12 11:33:51 (261 MB/s) - ‘localhost:4000/built/assets/js/index.html?N=D’ saved [1095/1095]
+2018-06-26 10:09:31 (94.9 MB/s) - ‘localhost:4000/built/assets/js/index.html?N=D’ saved [1095/1095]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/js/index.html?M=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/js/index.html?M=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1095 (1.1K) [text/html]
 Saving to: ‘localhost:4000/built/assets/js/index.html?M=D’
 
-     0K .                                                     100%  174M=0s
+     0K .                                                     100%  131M=0s
 
-2017-10-12 11:33:51 (174 MB/s) - ‘localhost:4000/built/assets/js/index.html?M=D’ saved [1095/1095]
+2018-06-26 10:09:31 (131 MB/s) - ‘localhost:4000/built/assets/js/index.html?M=D’ saved [1095/1095]
 
---2017-10-12 11:33:51--  http://localhost:4000/built/assets/js/index.html?S=D
+--2018-06-26 10:09:31--  http://localhost:4000/built/assets/js/index.html?S=D
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 1095 (1.1K) [text/html]
 Saving to: ‘localhost:4000/built/assets/js/index.html?S=D’
 
-     0K .                                                     100%  261M=0s
+     0K .                                                     100%  174M=0s
 
-2017-10-12 11:33:51 (261 MB/s) - ‘localhost:4000/built/assets/js/index.html?S=D’ saved [1095/1095]
+2018-06-26 10:09:31 (174 MB/s) - ‘localhost:4000/built/assets/js/index.html?S=D’ saved [1095/1095]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/piano-repeat.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/piano-repeat.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 71723 (70K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/piano-repeat.png’
 
-     0K .......... .......... .......... .......... .......... 71%  519M 0s
-    50K .......... ..........                                 100%  753M=0s
+     0K .......... .......... .......... .......... .......... 71%  230M 0s
+    50K .......... ..........                                 100%  337M=0s
 
-2017-10-12 11:33:51 (570 MB/s) - ‘localhost:4000/node-red-contrib-music/piano-repeat.png’ saved [71723/71723]
+2018-06-26 10:09:31 (253 MB/s) - ‘localhost:4000/node-red-contrib-music/piano-repeat.png’ saved [71723/71723]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/slider-configure.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/slider-configure.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 86545 (85K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/slider-configure.png’
 
-     0K .......... .......... .......... .......... .......... 59%  321M 0s
-    50K .......... .......... .......... ....                 100%  674M=0s
+     0K .......... .......... .......... .......... .......... 59%  233M 0s
+    50K .......... .......... .......... ....                 100%  298M=0s
 
-2017-10-12 11:33:51 (409 MB/s) - ‘localhost:4000/node-red-contrib-music/slider-configure.png’ saved [86545/86545]
+2018-06-26 10:09:31 (256 MB/s) - ‘localhost:4000/node-red-contrib-music/slider-configure.png’ saved [86545/86545]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/volume-slider.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/volume-slider.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 81589 (80K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/volume-slider.png’
 
-     0K .......... .......... .......... .......... .......... 62%  561M 0s
-    50K .......... .......... .........                       100%  783M=0s
+     0K .......... .......... .......... .......... .......... 62%  228M 0s
+    50K .......... .......... .........                       100%  326M=0s
 
-2017-10-12 11:33:51 (627 MB/s) - ‘localhost:4000/node-red-contrib-music/volume-slider.png’ saved [81589/81589]
+2018-06-26 10:09:31 (257 MB/s) - ‘localhost:4000/node-red-contrib-music/volume-slider.png’ saved [81589/81589]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/volume-control.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/volume-control.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 118994 (116K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/volume-control.png’
 
-     0K .......... .......... .......... .......... .......... 43%  549M 0s
-    50K .......... .......... .......... .......... .......... 86%  626M 0s
-   100K .......... ......                                     100%  659M=0s
+     0K .......... .......... .......... .......... .......... 43%  207M 0s
+    50K .......... .......... .......... .......... .......... 86%  337M 0s
+   100K .......... ......                                     100%  416M=0s
 
-2017-10-12 11:33:51 (594 MB/s) - ‘localhost:4000/node-red-contrib-music/volume-control.png’ saved [118994/118994]
+2018-06-26 10:09:31 (271 MB/s) - ‘localhost:4000/node-red-contrib-music/volume-control.png’ saved [118994/118994]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/resonance-slider.png
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/resonance-slider.png
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 34833 (34K) [image/png]
 Saving to: ‘localhost:4000/node-red-contrib-music/resonance-slider.png’
 
-     0K .......... .......... .......... ....                 100%  527M=0s
+     0K .......... .......... .......... ....                 100%  210M=0s
 
-2017-10-12 11:33:51 (527 MB/s) - ‘localhost:4000/node-red-contrib-music/resonance-slider.png’ saved [34833/34833]
+2018-06-26 10:09:31 (210 MB/s) - ‘localhost:4000/node-red-contrib-music/resonance-slider.png’ saved [34833/34833]
 
---2017-10-12 11:33:51--  http://localhost:4000/node-red-contrib-music/creating
+--2018-06-26 10:09:31--  http://localhost:4000/node-red-contrib-music/creating
 Reusing existing connection to localhost:4000.
 HTTP request sent, awaiting response... 200 OK
 Length: 3349 (3.3K) [text/html]
 Saving to: ‘localhost:4000/node-red-contrib-music/creating’
 
-     0K ...                                                   100%  798M=0s
+     0K ...                                                   100%  532M=0s
 
-2017-10-12 11:33:51 (798 MB/s) - ‘localhost:4000/node-red-contrib-music/creating’ saved [3349/3349]
+2018-06-26 10:09:31 (532 MB/s) - ‘localhost:4000/node-red-contrib-music/creating’ saved [3349/3349]
 
-FINISHED --2017-10-12 11:33:51--
-Total wall clock time: 0.2s
-Downloaded: 119 files, 6.6M in 0.01s (567 MB/s)
+FINISHED --2018-06-26 10:09:31--
+Total wall clock time: 0.3s
+Downloaded: 119 files, 6.6M in 0.02s (313 MB/s)
 Converting links in localhost:4000/assets/index.html?M=D... 7-0
 Converting links in localhost:4000/assets/css/index.html?N=A... 5-0
 Converting links in localhost:4000/assets/css/index.html?N=D... 5-0
@@ -1382,7 +1376,7 @@ Converting links in localhost:4000/assets/js/index.html?S=A... 5-0
 Converting links in localhost:4000/assets/images/index.html?S=D... 6-0
 Converting links in localhost:4000/assets/js/index.html?S=D... 5-0
 Converting links in localhost:4000/built/assets/js/index.html?S=D... 5-0
-Converting links in localhost:4000/node-red-contrib-music.1... 9-0
+Converting links in localhost:4000/node-red-contrib-music.2... 9-0
 Converting links in localhost:4000/built/assets/images/index.html?S=D... 6-0
 Converting links in localhost:4000/built/assets/index.html?N=D... 7-0
 Converting links in localhost:4000/assets/js/index.html... 5-0
@@ -1393,8 +1387,8 @@ Converting links in localhost:4000/index.html?S=D... 11-0
 Converting links in localhost:4000/assets/index.html?M=A... 7-0
 Converting links in localhost:4000/node-red-contrib-music/making-music.html... 17-0
 Converting links in localhost:4000/built/index.html... 10-0
-Converting links in localhost:4000/assets/css/style.css?v=a717ec1f19e537fb8dcdfddf410c20206651589c... 2-0
+Converting links in localhost:4000/assets/css/style.css?v=21eafd2f86e1196e964ef82df31a390d0ba2443b... 2-0
 Converting links in localhost:4000/assets/css/style.css... 2-0
 Converting links in localhost:4000/built/assets/css/style.css?v=a717ec1f19e537fb8dcdfddf410c20206651589c... 2-0
 Converting links in localhost:4000/built/assets/css/style.css... 2-0
-Converted links in 76 files in 0.02 seconds.
+Converted links in 76 files in 0.03 seconds.

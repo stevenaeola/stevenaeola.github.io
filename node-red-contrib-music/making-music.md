@@ -21,7 +21,7 @@ Next add a `synth` node, which is in the _music_ section of the palette. By defa
 
 ![node-red hamburger menu](node-red-menu.png)
 
-Click on here and select Import > Examples > Music > supercolliderOSC. Three pre-joined nodes appear which you can place anywhere, including an OSC node and a UDP node.
+Click on here and select Import > Examples > music > component_supercollider. Three pre-joined nodes appear which you can place anywhere, including an OSC node and a UDP node.
 
 OSC stands for _Open Sound Control_: it is a protocol designed for
 packaging music information, and the SuperCollider server expects
@@ -52,7 +52,7 @@ Once it is working you can try changing the configuration of the synth to try di
 
 ## <a name='lots-of-sounds'></a>Making lots of sounds
 
-The next music node to look at is the `beat` node, which behaves like a metronome, sending out regular ticks at a given speed. The speed of the ticks is measured in _beats per minute_ (bpm), so that 60bpm is one per second. Beat nodes also accept messages to start, stop and reset them. The easiest way to get one set up is to import `beatgenerator` via the hamburger menu. This gives you a beat generator, with three `inject` nodes to start, stop and reset it, plus two divider nodes (called `bar` and `section`) and a link node. After importing the beat generator you will have something like this:
+The next music node to look at is the `beat` node, which behaves like a metronome, sending out regular ticks at a given speed. The speed of the ticks is measured in _beats per minute_ (bpm), so that 60bpm is one per second. Beat nodes also accept messages to start, stop and reset them. The easiest way to get one set up is to import `component_beatgenerator` via the hamburger menu. This gives you a beat generator, with three `inject` nodes to start, stop and reset it, plus two divider nodes (called `bar` and `section`) and a link node. After importing the beat generator you will have something like this:
 
 ![Parts for a beat generator](beat-parts.png)
 
@@ -99,7 +99,7 @@ the start of a bar.
 
 Very interesting, but you were promised a drum beat, not just a lot of
 chat about object properties. Go to the "hamburger" menu and import
-"drumbeat". I recommend putting it at the bottom, so you get something
+"component_drumbeat". I recommend putting it at the bottom, so you get something
 like this:
 
 ![Nodes for a drum beat](drum-beat-parts.png)
@@ -190,9 +190,7 @@ list, but more complicated isn't always better when it comes to drum beats.
 * Add a sub-beat to the beat generator at the bottom of the beat configuration. In music, half a beat is
   called a quaver, so there are two quavers per beat. 
 
-Some of these later ideas are included in a more complex example called `fancybeat` which you can import to have a tinker with.
-
-Once you've got your drum beat created you can plug in a loudspeaker
-instead of a pair of headphones and we can get to hear them all. The
-next step is to do some [sequencing](sequencing).
+Some of these later ideas are included in a more complex example
+called `example_fancybeat` which you can import to have a tinker
+with. The next step is to do some [sequencing](sequencing).
 

@@ -1,3 +1,8 @@
+---
+category: tutorial
+order: 6
+---
+
 # Controlling Synths
 
 
@@ -47,7 +52,7 @@ Otherwise you could import a `volumecontrol` and change all the `volume` configu
 
 Other synth types also have parameters you might like to change with a `synthcontrol:` topic, such as
 
-* `snare` has a parameter `snare_brightness` which you can vary from 0 to 1000
+* `snare` has a parameter `snare_tightness` which you can vary from 0 to 1000
 * `kick`  has a parameter  `sustain` which you can vary from 0 to 1 (you will want to make the step size something like 0.01) and a parameter `beater_noise_level` which can vary from 0 to 0.1
 * `blip` has parameters `att` and `rel` which control the attack time and release time - the amount of time in seconds it takes for the sound to start and end. The standard values are 0.01 for `att` and 1 for `rel` but you could make them any range you wanted
 * `prophet` has many parameters, including `lforate`, which is usually 10
